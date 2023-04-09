@@ -1,17 +1,15 @@
 {
   "name": "msfemoji",
   "version": "1.0.0",
-  "description": "NPM package to supply react components out of Microsoft's fluent emoji",
-  "main": "src/index.js",
-  "files": [
-    "src"
-  ],
+  "description": "Package to supply react components out of Microsoft's fluent emoji",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "generate": "python3 scripts/svg.py && python3 scripts/png.py",
     "check_assets": "python3 scripts/check_assets.py src/assets",
     "create_imports": "python3 scripts/import.py",
-    "build": "cross-env NODE_ENV=production babel src --out-dir lib --extensions '.js,.jsx' --source-maps inline"
+    "copy-assets": "cp src/assets dist/assets",
+    "build": "cross-env NODE_ENV=production babel src --out-dir dist --extensions '.js,.jsx' --source-maps inline && pnpm run copy-assets"
   },
   "author": "",
   "license": "MIT",

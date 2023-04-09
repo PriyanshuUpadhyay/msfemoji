@@ -1,9 +1,11 @@
 # Fluent Emoji
 
-Fluent Emoji are a collection of familiar, friendly, and modern emoji from Microsoft.
+Fluent Emoji are a collection of familiar, friendly, and modern emoji from Microsoft. This repo converts those emojis into React components for you to use in your projects.
 
-![Fluent Emoji](art/readme_banner.webp)
+![Fluent Emoji](src/art/readme_banner.webp)
 
+
+# Following below data is from the original repo : [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) | [Official Website](https://fluentemoji.com/)
 ## Contact
 
 Please feel free to [open a GitHub issue](https://github.com/microsoft/fluentui-emoji/issues/new) and assign to the following points of contact with questions or requests.
