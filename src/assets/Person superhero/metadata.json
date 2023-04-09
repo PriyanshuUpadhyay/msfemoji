@@ -3,16 +3,8 @@
   "fromVersion": "11.0",
   "glyph": "🦸",
   "group": "People & Body",
-  "keywords": [
-    "good",
-    "hero",
-    "heroine",
-    "superhero",
-    "superpower"
-  ],
-  "mappedToEmoticons": [
-    "personsuperhero"
-  ],
+  "keywords": ["good", "hero", "heroine", "superhero", "superpower"],
+  "mappedToEmoticons": ["personsuperhero"],
   "tts": "superhero",
   "unicode": "1f9b8",
   "unicodeSkintones": [

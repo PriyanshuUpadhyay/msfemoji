@@ -2,20 +2,10 @@
   "cldr": "globe showing Americas",
   "fromVersion": "0.7",
   "glyph": "🌎",
-  "glyphAsUtfInEmoticons": [
-    "1f30e_earthglobeamericas"
-  ],
+  "glyphAsUtfInEmoticons": ["1f30e_earthglobeamericas"],
   "group": "Travel & Places",
-  "keywords": [
-    "Americas",
-    "earth",
-    "globe",
-    "globe showing Americas",
-    "world"
-  ],
-  "mappedToEmoticons": [
-    "1f30e_earthglobeamericas"
-  ],
+  "keywords": ["Americas", "earth", "globe", "globe showing Americas", "world"],
+  "mappedToEmoticons": ["1f30e_earthglobeamericas"],
   "tts": "globe showing Americas",
   "unicode": "1f30e"
 }

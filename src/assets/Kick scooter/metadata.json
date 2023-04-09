@@ -2,17 +2,10 @@
   "cldr": "kick scooter",
   "fromVersion": "3.0",
   "glyph": "🛴",
-  "glyphAsUtfInEmoticons": [
-    "pushbike"
-  ],
+  "glyphAsUtfInEmoticons": ["pushbike"],
   "group": "Travel & Places",
-  "keywords": [
-    "kick",
-    "scooter"
-  ],
-  "mappedToEmoticons": [
-    "kickscooter"
-  ],
+  "keywords": ["kick", "scooter"],
+  "mappedToEmoticons": ["kickscooter"],
   "tts": "kick scooter",
   "unicode": "1f6f4"
 }

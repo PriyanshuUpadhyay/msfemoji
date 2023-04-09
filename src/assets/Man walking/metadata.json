@@ -2,19 +2,10 @@
   "cldr": "man walking",
   "fromVersion": "4.0",
   "glyph": "🚶‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "manwalking"
-  ],
+  "glyphAsUtfInEmoticons": ["manwalking"],
   "group": "People & Body",
-  "keywords": [
-    "hike",
-    "man",
-    "man walking",
-    "walk"
-  ],
-  "mappedToEmoticons": [
-    "manwalking"
-  ],
+  "keywords": ["hike", "man", "man walking", "walk"],
+  "mappedToEmoticons": ["manwalking"],
   "tts": "man walking",
   "unicode": "1f6b6 200d 2642 fe0f",
   "unicodeSkintones": [

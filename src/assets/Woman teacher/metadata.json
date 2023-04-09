@@ -2,19 +2,10 @@
   "cldr": "woman teacher",
   "fromVersion": "4.0",
   "glyph": "👩‍🏫",
-  "glyphAsUtfInEmoticons": [
-    "womanteacher"
-  ],
+  "glyphAsUtfInEmoticons": ["womanteacher"],
   "group": "People & Body",
-  "keywords": [
-    "instructor",
-    "professor",
-    "teacher",
-    "woman"
-  ],
-  "mappedToEmoticons": [
-    "womanteacher"
-  ],
+  "keywords": ["instructor", "professor", "teacher", "woman"],
+  "mappedToEmoticons": ["womanteacher"],
   "tts": "woman teacher",
   "unicode": "1f469 200d 1f3eb",
   "unicodeSkintones": [

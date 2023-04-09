@@ -3,15 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "🕊️",
   "group": "Animals & Nature",
-  "keywords": [
-    "bird",
-    "dove",
-    "fly",
-    "peace"
-  ],
-  "mappedToEmoticons": [
-    "1f54a_doveofpeace"
-  ],
+  "keywords": ["bird", "dove", "fly", "peace"],
+  "mappedToEmoticons": ["1f54a_doveofpeace"],
   "tts": "dove",
   "unicode": "1f54a fe0f"
 }

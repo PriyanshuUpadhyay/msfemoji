@@ -2,9 +2,7 @@
   "cldr": "double exclamation mark",
   "fromVersion": "0.6",
   "glyph": "‼️",
-  "glyphAsUtfInEmoticons": [
-    "203c_doubleexclamationmark"
-  ],
+  "glyphAsUtfInEmoticons": ["203c_doubleexclamationmark"],
   "group": "Symbols",
   "keywords": [
     "!",
@@ -14,9 +12,7 @@
     "exclamation",
     "mark"
   ],
-  "mappedToEmoticons": [
-    "203c_doubleexclamationmark"
-  ],
+  "mappedToEmoticons": ["203c_doubleexclamationmark"],
   "tts": "double exclamation mark",
   "unicode": "203c fe0f"
 }

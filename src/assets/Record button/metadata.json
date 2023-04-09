@@ -2,18 +2,10 @@
   "cldr": "record button",
   "fromVersion": "0.7",
   "glyph": "⏺️",
-  "glyphAsUtfInEmoticons": [
-    "23fa_blackcircleforrecord"
-  ],
+  "glyphAsUtfInEmoticons": ["23fa_blackcircleforrecord"],
   "group": "Symbols",
-  "keywords": [
-    "circle",
-    "record",
-    "record button"
-  ],
-  "mappedToEmoticons": [
-    "23fa_blackcircleforrecord"
-  ],
+  "keywords": ["circle", "record", "record button"],
+  "mappedToEmoticons": ["23fa_blackcircleforrecord"],
   "tts": "record button",
   "unicode": "23fa fe0f"
 }

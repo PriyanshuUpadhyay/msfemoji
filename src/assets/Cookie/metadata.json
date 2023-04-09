@@ -2,18 +2,10 @@
   "cldr": "cookie",
   "fromVersion": "0.6",
   "glyph": "🍪",
-  "glyphAsUtfInEmoticons": [
-    "cookies"
-  ],
+  "glyphAsUtfInEmoticons": ["cookies"],
   "group": "Food & Drink",
-  "keywords": [
-    "cookie",
-    "dessert",
-    "sweet"
-  ],
-  "mappedToEmoticons": [
-    "cookies"
-  ],
+  "keywords": ["cookie", "dessert", "sweet"],
+  "mappedToEmoticons": ["cookies"],
   "tts": "cookie",
   "unicode": "1f36a"
 }

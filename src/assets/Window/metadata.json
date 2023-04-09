@@ -2,9 +2,7 @@
   "cldr": "window",
   "fromVersion": "13.0",
   "glyph": "🪟",
-  "glyphAsUtfInEmoticons": [
-    "window"
-  ],
+  "glyphAsUtfInEmoticons": ["window"],
   "group": "Objects",
   "keywords": [
     "frame",
@@ -14,9 +12,7 @@
     "view",
     "window"
   ],
-  "mappedToEmoticons": [
-    "window"
-  ],
+  "mappedToEmoticons": ["window"],
   "tts": "window",
   "unicode": "1fa9f"
 }

@@ -2,17 +2,10 @@
   "cldr": "school",
   "fromVersion": "0.6",
   "glyph": "🏫",
-  "glyphAsUtfInEmoticons": [
-    "1f3eb_school"
-  ],
+  "glyphAsUtfInEmoticons": ["1f3eb_school"],
   "group": "Travel & Places",
-  "keywords": [
-    "building",
-    "school"
-  ],
-  "mappedToEmoticons": [
-    "1f3eb_school"
-  ],
+  "keywords": ["building", "school"],
+  "mappedToEmoticons": ["1f3eb_school"],
   "tts": "school",
   "unicode": "1f3eb"
 }

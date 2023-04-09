@@ -2,19 +2,10 @@
   "cldr": "woman running",
   "fromVersion": "4.0",
   "glyph": "🏃‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "running"
-  ],
+  "glyphAsUtfInEmoticons": ["running"],
   "group": "People & Body",
-  "keywords": [
-    "marathon",
-    "racing",
-    "running",
-    "woman"
-  ],
-  "mappedToEmoticons": [
-    "running"
-  ],
+  "keywords": ["marathon", "racing", "running", "woman"],
+  "mappedToEmoticons": ["running"],
   "tts": "woman running",
   "unicode": "1f3c3 200d 2640 fe0f",
   "unicodeSkintones": [

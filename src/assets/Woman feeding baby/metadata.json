@@ -3,12 +3,7 @@
   "fromVersion": "13.0",
   "glyph": "👩‍🍼",
   "group": "People & Body",
-  "keywords": [
-    "baby",
-    "feeding",
-    "nursing",
-    "woman"
-  ],
+  "keywords": ["baby", "feeding", "nursing", "woman"],
   "tts": "woman feeding baby",
   "unicode": "1f469 200d 1f37c",
   "unicodeSkintones": [

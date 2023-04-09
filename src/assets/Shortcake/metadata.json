@@ -2,21 +2,10 @@
   "cldr": "shortcake",
   "fromVersion": "0.6",
   "glyph": "🍰",
-  "glyphAsUtfInEmoticons": [
-    "cakeslice"
-  ],
+  "glyphAsUtfInEmoticons": ["cakeslice"],
   "group": "Food & Drink",
-  "keywords": [
-    "cake",
-    "dessert",
-    "pastry",
-    "shortcake",
-    "slice",
-    "sweet"
-  ],
-  "mappedToEmoticons": [
-    "cakeslice"
-  ],
+  "keywords": ["cake", "dessert", "pastry", "shortcake", "slice", "sweet"],
+  "mappedToEmoticons": ["cakeslice"],
   "tts": "shortcake",
   "unicode": "1f370"
 }

@@ -2,20 +2,10 @@
   "cldr": "mouse trap",
   "fromVersion": "13.0",
   "glyph": "🪤",
-  "glyphAsUtfInEmoticons": [
-    "mousetrap"
-  ],
+  "glyphAsUtfInEmoticons": ["mousetrap"],
   "group": "Objects",
-  "keywords": [
-    "bait",
-    "mouse trap",
-    "mousetrap",
-    "snare",
-    "trap"
-  ],
-  "mappedToEmoticons": [
-    "mousetrap"
-  ],
+  "keywords": ["bait", "mouse trap", "mousetrap", "snare", "trap"],
+  "mappedToEmoticons": ["mousetrap"],
   "tts": "mouse trap",
   "unicode": "1faa4"
 }

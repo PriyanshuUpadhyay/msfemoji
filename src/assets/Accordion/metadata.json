@@ -2,18 +2,10 @@
   "cldr": "accordion",
   "fromVersion": "13.0",
   "glyph": "🪗",
-  "glyphAsUtfInEmoticons": [
-    "accordion"
-  ],
+  "glyphAsUtfInEmoticons": ["accordion"],
   "group": "Objects",
-  "keywords": [
-    "accordion",
-    "concertina",
-    "squeeze box"
-  ],
-  "mappedToEmoticons": [
-    "accordion"
-  ],
+  "keywords": ["accordion", "concertina", "squeeze box"],
+  "mappedToEmoticons": ["accordion"],
   "tts": "accordion",
   "unicode": "1fa97"
 }

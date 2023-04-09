@@ -2,19 +2,10 @@
   "cldr": "lacrosse",
   "fromVersion": "11.0",
   "glyph": "🥍",
-  "glyphAsUtfInEmoticons": [
-    "lacrosse"
-  ],
+  "glyphAsUtfInEmoticons": ["lacrosse"],
   "group": "Activities",
-  "keywords": [
-    "ball",
-    "goal",
-    "lacrosse",
-    "stick"
-  ],
-  "mappedToEmoticons": [
-    "lacrosse"
-  ],
+  "keywords": ["ball", "goal", "lacrosse", "stick"],
+  "mappedToEmoticons": ["lacrosse"],
   "tts": "lacrosse",
   "unicode": "1f94d"
 }

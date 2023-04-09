@@ -11,9 +11,7 @@
     "right",
     "triangle"
   ],
-  "mappedToEmoticons": [
-    "23ef_playpause"
-  ],
+  "mappedToEmoticons": ["23ef_playpause"],
   "tts": "play or pause button",
   "unicode": "23ef fe0f"
 }

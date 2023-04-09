@@ -3,15 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "🌦️",
   "group": "Travel & Places",
-  "keywords": [
-    "cloud",
-    "rain",
-    "sun",
-    "sun behind rain cloud"
-  ],
-  "mappedToEmoticons": [
-    "1f326_sunbehindraincloud"
-  ],
+  "keywords": ["cloud", "rain", "sun", "sun behind rain cloud"],
+  "mappedToEmoticons": ["1f326_sunbehindraincloud"],
   "tts": "sun behind rain cloud",
   "unicode": "1f326 fe0f"
 }

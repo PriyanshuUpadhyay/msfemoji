@@ -2,9 +2,7 @@
   "cldr": "see-no-evil monkey",
   "fromVersion": "0.6",
   "glyph": "🙈",
-  "glyphAsUtfInEmoticons": [
-    "seenoevil"
-  ],
+  "glyphAsUtfInEmoticons": ["seenoevil"],
   "group": "Smileys & Emotion",
   "keywords": [
     "evil",
@@ -14,9 +12,7 @@
     "see",
     "see-no-evil monkey"
   ],
-  "mappedToEmoticons": [
-    "seenoevil"
-  ],
+  "mappedToEmoticons": ["seenoevil"],
   "tts": "see-no-evil monkey",
   "unicode": "1f648"
 }

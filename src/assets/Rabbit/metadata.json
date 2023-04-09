@@ -2,18 +2,10 @@
   "cldr": "rabbit",
   "fromVersion": "1.0",
   "glyph": "🐇",
-  "glyphAsUtfInEmoticons": [
-    "bunny"
-  ],
+  "glyphAsUtfInEmoticons": ["bunny"],
   "group": "Animals & Nature",
-  "keywords": [
-    "bunny",
-    "pet",
-    "rabbit"
-  ],
-  "mappedToEmoticons": [
-    "bunny"
-  ],
+  "keywords": ["bunny", "pet", "rabbit"],
+  "mappedToEmoticons": ["bunny"],
   "tts": "rabbit",
   "unicode": "1f407"
 }

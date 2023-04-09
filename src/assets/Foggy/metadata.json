@@ -2,17 +2,10 @@
   "cldr": "foggy",
   "fromVersion": "0.6",
   "glyph": "🌁",
-  "glyphAsUtfInEmoticons": [
-    "1f301_foggy"
-  ],
+  "glyphAsUtfInEmoticons": ["1f301_foggy"],
   "group": "Travel & Places",
-  "keywords": [
-    "fog",
-    "foggy"
-  ],
-  "mappedToEmoticons": [
-    "1f301_foggy"
-  ],
+  "keywords": ["fog", "foggy"],
+  "mappedToEmoticons": ["1f301_foggy"],
   "tts": "foggy",
   "unicode": "1f301"
 }

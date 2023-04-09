@@ -2,20 +2,10 @@
   "cldr": "red paper lantern",
   "fromVersion": "0.6",
   "glyph": "🏮",
-  "glyphAsUtfInEmoticons": [
-    "1f3ee_izakayalantern"
-  ],
+  "glyphAsUtfInEmoticons": ["1f3ee_izakayalantern"],
   "group": "Objects",
-  "keywords": [
-    "bar",
-    "lantern",
-    "light",
-    "red",
-    "red paper lantern"
-  ],
-  "mappedToEmoticons": [
-    "1f3ee_izakayalantern"
-  ],
+  "keywords": ["bar", "lantern", "light", "red", "red paper lantern"],
+  "mappedToEmoticons": ["1f3ee_izakayalantern"],
   "tts": "red paper lantern",
   "unicode": "1f3ee"
 }

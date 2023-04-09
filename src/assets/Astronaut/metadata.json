@@ -3,13 +3,8 @@
   "fromVersion": "12.1",
   "glyph": "🧑‍🚀",
   "group": "People & Body",
-  "keywords": [
-    "astronaut",
-    "rocket"
-  ],
-  "mappedToEmoticons": [
-    "personastronaut"
-  ],
+  "keywords": ["astronaut", "rocket"],
+  "mappedToEmoticons": ["personastronaut"],
   "tts": "astronaut",
   "unicode": "1f9d1 200d 1f680",
   "unicodeSkintones": [

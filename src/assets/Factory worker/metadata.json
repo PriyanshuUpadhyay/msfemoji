@@ -3,15 +3,8 @@
   "fromVersion": "12.1",
   "glyph": "🧑‍🏭",
   "group": "People & Body",
-  "keywords": [
-    "assembly",
-    "factory",
-    "industrial",
-    "worker"
-  ],
-  "mappedToEmoticons": [
-    "personwelder"
-  ],
+  "keywords": ["assembly", "factory", "industrial", "worker"],
+  "mappedToEmoticons": ["personwelder"],
   "tts": "factory worker",
   "unicode": "1f9d1 200d 1f3ed",
   "unicodeSkintones": [

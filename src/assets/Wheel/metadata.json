@@ -3,12 +3,7 @@
   "fromVersion": "14.0",
   "glyph": "🛞",
   "group": "Travel & Places",
-  "keywords": [
-    "circle",
-    "tire",
-    "turn",
-    "wheel"
-  ],
+  "keywords": ["circle", "tire", "turn", "wheel"],
   "tts": "wheel",
   "unicode": "1f6de"
 }

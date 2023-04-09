@@ -2,20 +2,10 @@
   "cldr": "cooking",
   "fromVersion": "0.6",
   "glyph": "🍳",
-  "glyphAsUtfInEmoticons": [
-    "1f373_cooking"
-  ],
+  "glyphAsUtfInEmoticons": ["1f373_cooking"],
   "group": "Food & Drink",
-  "keywords": [
-    "breakfast",
-    "cooking",
-    "egg",
-    "frying",
-    "pan"
-  ],
-  "mappedToEmoticons": [
-    "1f373_cooking"
-  ],
+  "keywords": ["breakfast", "cooking", "egg", "frying", "pan"],
+  "mappedToEmoticons": ["1f373_cooking"],
   "tts": "cooking",
   "unicode": "1f373"
 }

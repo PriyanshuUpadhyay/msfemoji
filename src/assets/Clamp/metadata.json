@@ -3,15 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "🗜️",
   "group": "Objects",
-  "keywords": [
-    "clamp",
-    "compress",
-    "tool",
-    "vice"
-  ],
-  "mappedToEmoticons": [
-    "1f5dc_compression"
-  ],
+  "keywords": ["clamp", "compress", "tool", "vice"],
+  "mappedToEmoticons": ["1f5dc_compression"],
   "tts": "clamp",
   "unicode": "1f5dc fe0f"
 }

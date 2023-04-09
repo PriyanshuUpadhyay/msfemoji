@@ -2,21 +2,10 @@
   "cldr": "fuel pump",
   "fromVersion": "0.6",
   "glyph": "⛽",
-  "glyphAsUtfInEmoticons": [
-    "26fd_fuelpump"
-  ],
+  "glyphAsUtfInEmoticons": ["26fd_fuelpump"],
   "group": "Travel & Places",
-  "keywords": [
-    "diesel",
-    "fuel",
-    "fuelpump",
-    "gas",
-    "pump",
-    "station"
-  ],
-  "mappedToEmoticons": [
-    "26fd_fuelpump"
-  ],
+  "keywords": ["diesel", "fuel", "fuelpump", "gas", "pump", "station"],
+  "mappedToEmoticons": ["26fd_fuelpump"],
   "tts": "fuel pump",
   "unicode": "26fd"
 }

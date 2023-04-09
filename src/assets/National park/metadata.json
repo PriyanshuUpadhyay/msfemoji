@@ -3,13 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "🏞️",
   "group": "Travel & Places",
-  "keywords": [
-    "national park",
-    "park"
-  ],
-  "mappedToEmoticons": [
-    "1f3de_nationalpark"
-  ],
+  "keywords": ["national park", "park"],
+  "mappedToEmoticons": ["1f3de_nationalpark"],
   "tts": "national park",
   "unicode": "1f3de fe0f"
 }

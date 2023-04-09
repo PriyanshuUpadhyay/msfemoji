@@ -3,14 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "🛎️",
   "group": "Travel & Places",
-  "keywords": [
-    "bell",
-    "bellhop",
-    "hotel"
-  ],
-  "mappedToEmoticons": [
-    "1f6ce_bellhopbell"
-  ],
+  "keywords": ["bell", "bellhop", "hotel"],
+  "mappedToEmoticons": ["1f6ce_bellhopbell"],
   "tts": "bellhop bell",
   "unicode": "1f6ce fe0f"
 }

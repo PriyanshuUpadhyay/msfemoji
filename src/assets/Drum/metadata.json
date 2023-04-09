@@ -2,18 +2,10 @@
   "cldr": "drum",
   "fromVersion": "3.0",
   "glyph": "🥁",
-  "glyphAsUtfInEmoticons": [
-    "1f941_drumwithdrumsticks"
-  ],
+  "glyphAsUtfInEmoticons": ["1f941_drumwithdrumsticks"],
   "group": "Objects",
-  "keywords": [
-    "drum",
-    "drumsticks",
-    "music"
-  ],
-  "mappedToEmoticons": [
-    "1f941_drumwithdrumsticks"
-  ],
+  "keywords": ["drum", "drumsticks", "music"],
+  "mappedToEmoticons": ["1f941_drumwithdrumsticks"],
   "tts": "drum",
   "unicode": "1f941"
 }

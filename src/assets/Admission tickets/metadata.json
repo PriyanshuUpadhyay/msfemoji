@@ -3,14 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "🎟️",
   "group": "Activities",
-  "keywords": [
-    "admission",
-    "admission tickets",
-    "ticket"
-  ],
-  "mappedToEmoticons": [
-    "1f39f_admissiontickets"
-  ],
+  "keywords": ["admission", "admission tickets", "ticket"],
+  "mappedToEmoticons": ["1f39f_admissiontickets"],
   "tts": "admission tickets",
   "unicode": "1f39f fe0f"
 }

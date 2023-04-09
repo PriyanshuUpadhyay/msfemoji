@@ -2,9 +2,7 @@
   "cldr": "woman office worker",
   "fromVersion": "4.0",
   "glyph": "👩‍💼",
-  "glyphAsUtfInEmoticons": [
-    "officeworkerfemale"
-  ],
+  "glyphAsUtfInEmoticons": ["officeworkerfemale"],
   "group": "People & Body",
   "keywords": [
     "architect",
@@ -14,9 +12,7 @@
     "woman",
     "woman office worker"
   ],
-  "mappedToEmoticons": [
-    "officeworkerfemale"
-  ],
+  "mappedToEmoticons": ["officeworkerfemale"],
   "tts": "woman office worker",
   "unicode": "1f469 200d 1f4bc",
   "unicodeSkintones": [

@@ -2,9 +2,7 @@
   "cldr": "man shrugging",
   "fromVersion": "4.0",
   "glyph": "🤷‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "glassceiling"
-  ],
+  "glyphAsUtfInEmoticons": ["glassceiling"],
   "group": "People & Body",
   "keywords": [
     "doubt",
@@ -14,9 +12,7 @@
     "man shrugging",
     "shrug"
   ],
-  "mappedToEmoticons": [
-    "manshrug"
-  ],
+  "mappedToEmoticons": ["manshrug"],
   "tts": "man shrugging",
   "unicode": "1f937 200d 2642 fe0f",
   "unicodeSkintones": [

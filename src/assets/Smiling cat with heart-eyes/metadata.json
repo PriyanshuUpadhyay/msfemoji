@@ -12,9 +12,7 @@
     "smile",
     "smiling cat with heart-eyes"
   ],
-  "mappedToEmoticons": [
-    "hearteyescat"
-  ],
+  "mappedToEmoticons": ["hearteyescat"],
   "tts": "smiling cat with heart-eyes",
   "unicode": "1f63b"
 }

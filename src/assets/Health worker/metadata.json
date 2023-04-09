@@ -3,16 +3,8 @@
   "fromVersion": "12.1",
   "glyph": "🧑‍⚕️",
   "group": "People & Body",
-  "keywords": [
-    "doctor",
-    "health worker",
-    "healthcare",
-    "nurse",
-    "therapist"
-  ],
-  "mappedToEmoticons": [
-    "personhealthworker"
-  ],
+  "keywords": ["doctor", "health worker", "healthcare", "nurse", "therapist"],
+  "mappedToEmoticons": ["personhealthworker"],
   "tts": "health worker",
   "unicode": "1f9d1 200d 2695 fe0f",
   "unicodeSkintones": [

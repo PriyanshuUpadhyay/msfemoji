@@ -2,18 +2,10 @@
   "cldr": "man artist",
   "fromVersion": "4.0",
   "glyph": "👨‍🎨",
-  "glyphAsUtfInEmoticons": [
-    "manartist"
-  ],
+  "glyphAsUtfInEmoticons": ["manartist"],
   "group": "People & Body",
-  "keywords": [
-    "artist",
-    "man",
-    "palette"
-  ],
-  "mappedToEmoticons": [
-    "manartist"
-  ],
+  "keywords": ["artist", "man", "palette"],
+  "mappedToEmoticons": ["manartist"],
   "tts": "man artist",
   "unicode": "1f468 200d 1f3a8",
   "unicodeSkintones": [

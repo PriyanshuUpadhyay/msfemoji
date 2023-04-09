@@ -2,18 +2,10 @@
   "cldr": "person with white cane",
   "fromVersion": "12.1",
   "glyph": "🧑‍🦯",
-  "glyphAsUtfInEmoticons": [
-    "personwithprobingcane"
-  ],
+  "glyphAsUtfInEmoticons": ["personwithprobingcane"],
   "group": "People & Body",
-  "keywords": [
-    "accessibility",
-    "blind",
-    "person with white cane"
-  ],
-  "mappedToEmoticons": [
-    "personwithprobingcane"
-  ],
+  "keywords": ["accessibility", "blind", "person with white cane"],
+  "mappedToEmoticons": ["personwithprobingcane"],
   "tts": "person with white cane",
   "unicode": "1f9d1 200d 1f9af",
   "unicodeSkintones": [

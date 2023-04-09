@@ -2,17 +2,10 @@
   "cldr": "hamburger",
   "fromVersion": "0.6",
   "glyph": "🍔",
-  "glyphAsUtfInEmoticons": [
-    "burger"
-  ],
+  "glyphAsUtfInEmoticons": ["burger"],
   "group": "Food & Drink",
-  "keywords": [
-    "burger",
-    "hamburger"
-  ],
-  "mappedToEmoticons": [
-    "burger"
-  ],
+  "keywords": ["burger", "hamburger"],
+  "mappedToEmoticons": ["burger"],
   "tts": "hamburger",
   "unicode": "1f354"
 }

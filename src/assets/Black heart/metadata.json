@@ -2,19 +2,10 @@
   "cldr": "black heart",
   "fromVersion": "3.0",
   "glyph": "🖤",
-  "glyphAsUtfInEmoticons": [
-    "heartblack"
-  ],
+  "glyphAsUtfInEmoticons": ["heartblack"],
   "group": "Smileys & Emotion",
-  "keywords": [
-    "black",
-    "black heart",
-    "evil",
-    "wicked"
-  ],
-  "mappedToEmoticons": [
-    "heartblack"
-  ],
+  "keywords": ["black", "black heart", "evil", "wicked"],
+  "mappedToEmoticons": ["heartblack"],
   "tts": "black heart",
   "unicode": "1f5a4"
 }

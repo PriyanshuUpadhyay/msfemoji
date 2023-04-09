@@ -3,10 +3,7 @@
   "fromVersion": "0.7",
   "glyph": "🏳️",
   "group": "Flags",
-  "keywords": [
-    "waving",
-    "white flag"
-  ],
+  "keywords": ["waving", "white flag"],
   "tts": "white flag",
   "unicode": "1f3f3 fe0f"
 }

@@ -3,13 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "🏙️",
   "group": "Travel & Places",
-  "keywords": [
-    "city",
-    "cityscape"
-  ],
-  "mappedToEmoticons": [
-    "1f3d9_cityscape"
-  ],
+  "keywords": ["city", "cityscape"],
+  "mappedToEmoticons": ["1f3d9_cityscape"],
   "tts": "cityscape",
   "unicode": "1f3d9 fe0f"
 }

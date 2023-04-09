@@ -3,14 +3,8 @@
   "fromVersion": "0.6",
   "glyph": "✔️",
   "group": "Symbols",
-  "keywords": [
-    "✓",
-    "check",
-    "mark"
-  ],
-  "mappedToEmoticons": [
-    "2714_heavycheckmark"
-  ],
+  "keywords": ["✓", "check", "mark"],
+  "mappedToEmoticons": ["2714_heavycheckmark"],
   "tts": "check mark",
   "unicode": "2714 fe0f"
 }

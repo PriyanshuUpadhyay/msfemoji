@@ -2,20 +2,10 @@
   "cldr": "thumbs up",
   "fromVersion": "0.6",
   "glyph": "👍",
-  "glyphAsUtfInEmoticons": [
-    "yes"
-  ],
+  "glyphAsUtfInEmoticons": ["yes"],
   "group": "People & Body",
-  "keywords": [
-    "+1",
-    "hand",
-    "thumb",
-    "thumbs up",
-    "up"
-  ],
-  "mappedToEmoticons": [
-    "yes"
-  ],
+  "keywords": ["+1", "hand", "thumb", "thumbs up", "up"],
+  "mappedToEmoticons": ["yes"],
   "tts": "thumbs up",
   "unicode": "1f44d",
   "unicodeSkintones": [

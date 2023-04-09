@@ -2,17 +2,10 @@
   "cldr": "bank",
   "fromVersion": "0.6",
   "glyph": "🏦",
-  "glyphAsUtfInEmoticons": [
-    "1f3e6_bank"
-  ],
+  "glyphAsUtfInEmoticons": ["1f3e6_bank"],
   "group": "Travel & Places",
-  "keywords": [
-    "bank",
-    "building"
-  ],
-  "mappedToEmoticons": [
-    "1f3e6_bank"
-  ],
+  "keywords": ["bank", "building"],
+  "mappedToEmoticons": ["1f3e6_bank"],
   "tts": "bank",
   "unicode": "1f3e6"
 }

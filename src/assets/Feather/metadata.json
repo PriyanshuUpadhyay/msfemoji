@@ -2,20 +2,10 @@
   "cldr": "feather",
   "fromVersion": "13.0",
   "glyph": "🪶",
-  "glyphAsUtfInEmoticons": [
-    "feather"
-  ],
+  "glyphAsUtfInEmoticons": ["feather"],
   "group": "Animals & Nature",
-  "keywords": [
-    "bird",
-    "feather",
-    "flight",
-    "light",
-    "plumage"
-  ],
-  "mappedToEmoticons": [
-    "feather"
-  ],
+  "keywords": ["bird", "feather", "flight", "light", "plumage"],
+  "mappedToEmoticons": ["feather"],
   "tts": "feather",
   "unicode": "1fab6"
 }

@@ -2,17 +2,10 @@
   "cldr": "taco",
   "fromVersion": "1.0",
   "glyph": "🌮",
-  "glyphAsUtfInEmoticons": [
-    "1f32e_taco"
-  ],
+  "glyphAsUtfInEmoticons": ["1f32e_taco"],
   "group": "Food & Drink",
-  "keywords": [
-    "mexican",
-    "taco"
-  ],
-  "mappedToEmoticons": [
-    "1f32e_taco"
-  ],
+  "keywords": ["mexican", "taco"],
+  "mappedToEmoticons": ["1f32e_taco"],
   "tts": "taco",
   "unicode": "1f32e"
 }

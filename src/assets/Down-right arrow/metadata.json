@@ -2,9 +2,7 @@
   "cldr": "down-right arrow",
   "fromVersion": "0.6",
   "glyph": "↘️",
-  "glyphAsUtfInEmoticons": [
-    "2198_southeastarrow"
-  ],
+  "glyphAsUtfInEmoticons": ["2198_southeastarrow"],
   "group": "Symbols",
   "keywords": [
     "arrow",
@@ -13,9 +11,7 @@
     "intercardinal",
     "southeast"
   ],
-  "mappedToEmoticons": [
-    "2198_southeastarrow"
-  ],
+  "mappedToEmoticons": ["2198_southeastarrow"],
   "tts": "down-right arrow",
   "unicode": "2198 fe0f"
 }

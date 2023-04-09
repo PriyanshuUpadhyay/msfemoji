@@ -2,18 +2,10 @@
   "cldr": "police car",
   "fromVersion": "0.6",
   "glyph": "🚓",
-  "glyphAsUtfInEmoticons": [
-    "policecar"
-  ],
+  "glyphAsUtfInEmoticons": ["policecar"],
   "group": "Travel & Places",
-  "keywords": [
-    "car",
-    "patrol",
-    "police"
-  ],
-  "mappedToEmoticons": [
-    "policecar"
-  ],
+  "keywords": ["car", "patrol", "police"],
+  "mappedToEmoticons": ["policecar"],
   "tts": "police car",
   "unicode": "1f693"
 }

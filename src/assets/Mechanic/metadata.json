@@ -3,15 +3,8 @@
   "fromVersion": "12.1",
   "glyph": "🧑‍🔧",
   "group": "People & Body",
-  "keywords": [
-    "electrician",
-    "mechanic",
-    "plumber",
-    "tradesperson"
-  ],
-  "mappedToEmoticons": [
-    "personmechanic"
-  ],
+  "keywords": ["electrician", "mechanic", "plumber", "tradesperson"],
+  "mappedToEmoticons": ["personmechanic"],
   "tts": "mechanic",
   "unicode": "1f9d1 200d 1f527",
   "unicodeSkintones": [

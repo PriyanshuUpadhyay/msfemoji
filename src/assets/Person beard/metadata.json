@@ -2,18 +2,10 @@
   "cldr": "person: beard",
   "fromVersion": "5.0",
   "glyph": "🧔",
-  "glyphAsUtfInEmoticons": [
-    "1f9d4_beardedperson"
-  ],
+  "glyphAsUtfInEmoticons": ["1f9d4_beardedperson"],
   "group": "People & Body",
-  "keywords": [
-    "beard",
-    "person",
-    "person: beard"
-  ],
-  "mappedToEmoticons": [
-    "1f9d4_beardedperson"
-  ],
+  "keywords": ["beard", "person", "person: beard"],
+  "mappedToEmoticons": ["1f9d4_beardedperson"],
   "tts": "person: beard",
   "unicode": "1f9d4",
   "unicodeSkintones": [

@@ -2,18 +2,10 @@
   "cldr": "bridge at night",
   "fromVersion": "0.6",
   "glyph": "🌉",
-  "glyphAsUtfInEmoticons": [
-    "1f309_bridgeatnight"
-  ],
+  "glyphAsUtfInEmoticons": ["1f309_bridgeatnight"],
   "group": "Travel & Places",
-  "keywords": [
-    "bridge",
-    "bridge at night",
-    "night"
-  ],
-  "mappedToEmoticons": [
-    "1f309_bridgeatnight"
-  ],
+  "keywords": ["bridge", "bridge at night", "night"],
+  "mappedToEmoticons": ["1f309_bridgeatnight"],
   "tts": "bridge at night",
   "unicode": "1f309"
 }

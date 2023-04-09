@@ -2,19 +2,10 @@
   "cldr": "man judge",
   "fromVersion": "4.0",
   "glyph": "👨‍⚖️",
-  "glyphAsUtfInEmoticons": [
-    "manjudge"
-  ],
+  "glyphAsUtfInEmoticons": ["manjudge"],
   "group": "People & Body",
-  "keywords": [
-    "judge",
-    "justice",
-    "man",
-    "scales"
-  ],
-  "mappedToEmoticons": [
-    "manjudge"
-  ],
+  "keywords": ["judge", "justice", "man", "scales"],
+  "mappedToEmoticons": ["manjudge"],
   "tts": "man judge",
   "unicode": "1f468 200d 2696 fe0f",
   "unicodeSkintones": [

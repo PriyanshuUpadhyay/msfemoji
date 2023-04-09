@@ -2,17 +2,10 @@
   "cldr": "man guard",
   "fromVersion": "4.0",
   "glyph": "💂‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "man_guard"
-  ],
+  "glyphAsUtfInEmoticons": ["man_guard"],
   "group": "People & Body",
-  "keywords": [
-    "guard",
-    "man"
-  ],
-  "mappedToEmoticons": [
-    "man_guard"
-  ],
+  "keywords": ["guard", "man"],
+  "mappedToEmoticons": ["man_guard"],
   "tts": "man guard",
   "unicode": "1f482 200d 2642 fe0f",
   "unicodeSkintones": [

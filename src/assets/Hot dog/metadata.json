@@ -2,19 +2,10 @@
   "cldr": "hot dog",
   "fromVersion": "1.0",
   "glyph": "🌭",
-  "glyphAsUtfInEmoticons": [
-    "1f32d_hotdog"
-  ],
+  "glyphAsUtfInEmoticons": ["1f32d_hotdog"],
   "group": "Food & Drink",
-  "keywords": [
-    "frankfurter",
-    "hot dog",
-    "hotdog",
-    "sausage"
-  ],
-  "mappedToEmoticons": [
-    "1f32d_hotdog"
-  ],
+  "keywords": ["frankfurter", "hot dog", "hotdog", "sausage"],
+  "mappedToEmoticons": ["1f32d_hotdog"],
   "tts": "hot dog",
   "unicode": "1f32d"
 }

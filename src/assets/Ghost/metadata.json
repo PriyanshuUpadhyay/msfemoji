@@ -2,21 +2,10 @@
   "cldr": "ghost",
   "fromVersion": "0.6",
   "glyph": "👻",
-  "glyphAsUtfInEmoticons": [
-    "ghost"
-  ],
+  "glyphAsUtfInEmoticons": ["ghost"],
   "group": "Smileys & Emotion",
-  "keywords": [
-    "creature",
-    "face",
-    "fairy tale",
-    "fantasy",
-    "ghost",
-    "monster"
-  ],
-  "mappedToEmoticons": [
-    "ghost"
-  ],
+  "keywords": ["creature", "face", "fairy tale", "fantasy", "ghost", "monster"],
+  "mappedToEmoticons": ["ghost"],
   "tts": "ghost",
   "unicode": "1f47b"
 }

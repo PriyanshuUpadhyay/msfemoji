@@ -2,17 +2,10 @@
   "cldr": "ring",
   "fromVersion": "0.6",
   "glyph": "💍",
-  "glyphAsUtfInEmoticons": [
-    "ring"
-  ],
+  "glyphAsUtfInEmoticons": ["ring"],
   "group": "Objects",
-  "keywords": [
-    "diamond",
-    "ring"
-  ],
-  "mappedToEmoticons": [
-    "ring"
-  ],
+  "keywords": ["diamond", "ring"],
+  "mappedToEmoticons": ["ring"],
   "tts": "ring",
   "unicode": "1f48d"
 }

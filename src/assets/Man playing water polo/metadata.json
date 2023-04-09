@@ -3,14 +3,8 @@
   "fromVersion": "4.0",
   "glyph": "🤽‍♂️",
   "group": "People & Body",
-  "keywords": [
-    "man",
-    "man playing water polo",
-    "water polo"
-  ],
-  "mappedToEmoticons": [
-    "manplayingwaterpolo"
-  ],
+  "keywords": ["man", "man playing water polo", "water polo"],
+  "mappedToEmoticons": ["manplayingwaterpolo"],
   "tts": "man playing water polo",
   "unicode": "1f93d 200d 2642 fe0f",
   "unicodeSkintones": [

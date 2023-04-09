@@ -2,9 +2,7 @@
   "cldr": "sewing needle",
   "fromVersion": "13.0",
   "glyph": "🪡",
-  "glyphAsUtfInEmoticons": [
-    "sewingneedle"
-  ],
+  "glyphAsUtfInEmoticons": ["sewingneedle"],
   "group": "Activities",
   "keywords": [
     "embroidery",
@@ -14,9 +12,7 @@
     "sutures",
     "tailoring"
   ],
-  "mappedToEmoticons": [
-    "sewingneedle"
-  ],
+  "mappedToEmoticons": ["sewingneedle"],
   "tts": "sewing needle",
   "unicode": "1faa1"
 }

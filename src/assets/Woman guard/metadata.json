@@ -2,17 +2,10 @@
   "cldr": "woman guard",
   "fromVersion": "4.0",
   "glyph": "💂‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_guard"
-  ],
+  "glyphAsUtfInEmoticons": ["woman_guard"],
   "group": "People & Body",
-  "keywords": [
-    "guard",
-    "woman"
-  ],
-  "mappedToEmoticons": [
-    "woman_guard"
-  ],
+  "keywords": ["guard", "woman"],
+  "mappedToEmoticons": ["woman_guard"],
   "tts": "woman guard",
   "unicode": "1f482 200d 2640 fe0f",
   "unicodeSkintones": [

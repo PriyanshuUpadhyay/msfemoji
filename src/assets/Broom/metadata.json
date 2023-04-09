@@ -2,19 +2,10 @@
   "cldr": "broom",
   "fromVersion": "11.0",
   "glyph": "🧹",
-  "glyphAsUtfInEmoticons": [
-    "1f9f9_broom"
-  ],
+  "glyphAsUtfInEmoticons": ["1f9f9_broom"],
   "group": "Objects",
-  "keywords": [
-    "broom",
-    "cleaning",
-    "sweeping",
-    "witch"
-  ],
-  "mappedToEmoticons": [
-    "1f9f9_broom"
-  ],
+  "keywords": ["broom", "cleaning", "sweeping", "witch"],
+  "mappedToEmoticons": ["1f9f9_broom"],
   "tts": "broom",
   "unicode": "1f9f9"
 }

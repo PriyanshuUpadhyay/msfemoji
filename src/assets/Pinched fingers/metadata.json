@@ -10,9 +10,7 @@
     "pinched",
     "sarcastic"
   ],
-  "mappedToEmoticons": [
-    "pinchedfingers"
-  ],
+  "mappedToEmoticons": ["pinchedfingers"],
   "tts": "pinched fingers",
   "unicode": "1f90c",
   "unicodeSkintones": [

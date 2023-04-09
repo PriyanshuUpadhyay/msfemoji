@@ -2,17 +2,10 @@
   "cldr": "Japanese castle",
   "fromVersion": "0.6",
   "glyph": "🏯",
-  "glyphAsUtfInEmoticons": [
-    "1f3ef_japanesecastle"
-  ],
+  "glyphAsUtfInEmoticons": ["1f3ef_japanesecastle"],
   "group": "Travel & Places",
-  "keywords": [
-    "castle",
-    "Japanese"
-  ],
-  "mappedToEmoticons": [
-    "1f3ef_japanesecastle"
-  ],
+  "keywords": ["castle", "Japanese"],
+  "mappedToEmoticons": ["1f3ef_japanesecastle"],
   "tts": "Japanese castle",
   "unicode": "1f3ef"
 }

@@ -10,9 +10,7 @@
     "Japanese “monthly amount” button",
     "月"
   ],
-  "mappedToEmoticons": [
-    "1f237_monthlyamount"
-  ],
+  "mappedToEmoticons": ["1f237_monthlyamount"],
   "tts": "Japanese “monthly amount” button",
   "unicode": "1f237 fe0f"
 }

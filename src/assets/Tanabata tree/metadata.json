@@ -2,20 +2,10 @@
   "cldr": "tanabata tree",
   "fromVersion": "0.6",
   "glyph": "🎋",
-  "glyphAsUtfInEmoticons": [
-    "1f38b_tanabatatree"
-  ],
+  "glyphAsUtfInEmoticons": ["1f38b_tanabatatree"],
   "group": "Activities",
-  "keywords": [
-    "banner",
-    "celebration",
-    "Japanese",
-    "tanabata tree",
-    "tree"
-  ],
-  "mappedToEmoticons": [
-    "1f38b_tanabatatree"
-  ],
+  "keywords": ["banner", "celebration", "Japanese", "tanabata tree", "tree"],
+  "mappedToEmoticons": ["1f38b_tanabatatree"],
   "tts": "tanabata tree",
   "unicode": "1f38b"
 }

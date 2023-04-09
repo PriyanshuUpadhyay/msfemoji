@@ -2,19 +2,10 @@
   "cldr": "wood",
   "fromVersion": "13.0",
   "glyph": "🪵",
-  "glyphAsUtfInEmoticons": [
-    "wood"
-  ],
+  "glyphAsUtfInEmoticons": ["wood"],
   "group": "Travel & Places",
-  "keywords": [
-    "log",
-    "lumber",
-    "timber",
-    "wood"
-  ],
-  "mappedToEmoticons": [
-    "wood"
-  ],
+  "keywords": ["log", "lumber", "timber", "wood"],
+  "mappedToEmoticons": ["wood"],
   "tts": "wood",
   "unicode": "1fab5"
 }

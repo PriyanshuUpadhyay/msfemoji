@@ -10,9 +10,7 @@
     "knife",
     "plate"
   ],
-  "mappedToEmoticons": [
-    "1f37d_forkandknifewithplate"
-  ],
+  "mappedToEmoticons": ["1f37d_forkandknifewithplate"],
   "tts": "fork and knife with plate",
   "unicode": "1f37d fe0f"
 }

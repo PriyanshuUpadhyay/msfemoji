@@ -10,9 +10,7 @@
     "Japanese “congratulations” button",
     "祝"
   ],
-  "mappedToEmoticons": [
-    "3297_congratulations"
-  ],
+  "mappedToEmoticons": ["3297_congratulations"],
   "tts": "Japanese “congratulations” button",
   "unicode": "3297 fe0f"
 }

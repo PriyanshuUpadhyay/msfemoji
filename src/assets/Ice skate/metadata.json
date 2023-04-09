@@ -3,13 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "⛸️",
   "group": "Activities",
-  "keywords": [
-    "ice",
-    "skate"
-  ],
-  "mappedToEmoticons": [
-    "26f8_iceskate"
-  ],
+  "keywords": ["ice", "skate"],
+  "mappedToEmoticons": ["26f8_iceskate"],
   "tts": "ice skate",
   "unicode": "26f8 fe0f"
 }

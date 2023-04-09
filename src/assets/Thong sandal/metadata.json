@@ -2,9 +2,7 @@
   "cldr": "thong sandal",
   "fromVersion": "13.0",
   "glyph": "🩴",
-  "glyphAsUtfInEmoticons": [
-    "thongsandal"
-  ],
+  "glyphAsUtfInEmoticons": ["thongsandal"],
   "group": "Objects",
   "keywords": [
     "beach sandals",
@@ -14,9 +12,7 @@
     "thongs",
     "zōri"
   ],
-  "mappedToEmoticons": [
-    "thongsandal"
-  ],
+  "mappedToEmoticons": ["thongsandal"],
   "tts": "thong sandal",
   "unicode": "1fa74"
 }

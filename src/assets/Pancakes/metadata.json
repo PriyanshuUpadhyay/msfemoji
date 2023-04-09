@@ -2,21 +2,10 @@
   "cldr": "pancakes",
   "fromVersion": "3.0",
   "glyph": "🥞",
-  "glyphAsUtfInEmoticons": [
-    "1f95e_pancake"
-  ],
+  "glyphAsUtfInEmoticons": ["1f95e_pancake"],
   "group": "Food & Drink",
-  "keywords": [
-    "breakfast",
-    "crêpe",
-    "food",
-    "hotcake",
-    "pancake",
-    "pancakes"
-  ],
-  "mappedToEmoticons": [
-    "1f95e_pancake"
-  ],
+  "keywords": ["breakfast", "crêpe", "food", "hotcake", "pancake", "pancakes"],
+  "mappedToEmoticons": ["1f95e_pancake"],
   "tts": "pancakes",
   "unicode": "1f95e"
 }

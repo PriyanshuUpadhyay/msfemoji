@@ -3,14 +3,8 @@
   "fromVersion": "12.1",
   "glyph": "🧑‍⚖️",
   "group": "People & Body",
-  "keywords": [
-    "judge",
-    "justice",
-    "scales"
-  ],
-  "mappedToEmoticons": [
-    "personjudge"
-  ],
+  "keywords": ["judge", "justice", "scales"],
+  "mappedToEmoticons": ["personjudge"],
   "tts": "judge",
   "unicode": "1f9d1 200d 2696 fe0f",
   "unicodeSkintones": [

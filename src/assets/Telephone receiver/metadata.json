@@ -3,14 +3,8 @@
   "fromVersion": "0.6",
   "glyph": "📞",
   "group": "Objects",
-  "keywords": [
-    "phone",
-    "receiver",
-    "telephone"
-  ],
-  "mappedToEmoticons": [
-    "telephonereceiver"
-  ],
+  "keywords": ["phone", "receiver", "telephone"],
+  "mappedToEmoticons": ["telephonereceiver"],
   "tts": "telephone receiver",
   "unicode": "1f4de"
 }

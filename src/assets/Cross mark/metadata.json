@@ -2,9 +2,7 @@
   "cldr": "cross mark",
   "fromVersion": "0.6",
   "glyph": "❌",
-  "glyphAsUtfInEmoticons": [
-    "274c_crossmark"
-  ],
+  "glyphAsUtfInEmoticons": ["274c_crossmark"],
   "group": "Symbols",
   "keywords": [
     "×",
@@ -15,9 +13,7 @@
     "multiply",
     "x"
   ],
-  "mappedToEmoticons": [
-    "274c_crossmark"
-  ],
+  "mappedToEmoticons": ["274c_crossmark"],
   "tts": "cross mark",
   "unicode": "274c"
 }

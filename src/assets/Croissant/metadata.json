@@ -2,21 +2,10 @@
   "cldr": "croissant",
   "fromVersion": "3.0",
   "glyph": "🥐",
-  "glyphAsUtfInEmoticons": [
-    "croissant"
-  ],
+  "glyphAsUtfInEmoticons": ["croissant"],
   "group": "Food & Drink",
-  "keywords": [
-    "bread",
-    "breakfast",
-    "croissant",
-    "food",
-    "french",
-    "roll"
-  ],
-  "mappedToEmoticons": [
-    "croissant"
-  ],
+  "keywords": ["bread", "breakfast", "croissant", "food", "french", "roll"],
+  "mappedToEmoticons": ["croissant"],
   "tts": "croissant",
   "unicode": "1f950"
 }

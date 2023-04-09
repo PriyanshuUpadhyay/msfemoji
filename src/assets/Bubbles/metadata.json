@@ -3,13 +3,7 @@
   "fromVersion": "14.0",
   "glyph": "🫧",
   "group": "Objects",
-  "keywords": [
-    "bubbles",
-    "burp",
-    "clean",
-    "soap",
-    "underwater"
-  ],
+  "keywords": ["bubbles", "burp", "clean", "soap", "underwater"],
   "tts": "bubbles",
   "unicode": "1fae7"
 }

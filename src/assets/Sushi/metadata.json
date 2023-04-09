@@ -2,16 +2,10 @@
   "cldr": "sushi",
   "fromVersion": "0.6",
   "glyph": "🍣",
-  "glyphAsUtfInEmoticons": [
-    "1f363_sushi"
-  ],
+  "glyphAsUtfInEmoticons": ["1f363_sushi"],
   "group": "Food & Drink",
-  "keywords": [
-    "sushi"
-  ],
-  "mappedToEmoticons": [
-    "1f363_sushi"
-  ],
+  "keywords": ["sushi"],
+  "mappedToEmoticons": ["1f363_sushi"],
   "tts": "sushi",
   "unicode": "1f363"
 }

@@ -3,11 +3,7 @@
   "fromVersion": "14.0",
   "glyph": "🪫",
   "group": "Objects",
-  "keywords": [
-    "electronic",
-    "low battery",
-    "low energy"
-  ],
+  "keywords": ["electronic", "low battery", "low energy"],
   "tts": "low battery",
   "unicode": "1faab"
 }

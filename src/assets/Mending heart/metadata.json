@@ -12,9 +12,7 @@
     "recuperating",
     "well"
   ],
-  "mappedToEmoticons": [
-    "mendingheart"
-  ],
+  "mappedToEmoticons": ["mendingheart"],
   "tts": "mending heart",
   "unicode": "2764 fe0f 200d 1fa79"
 }

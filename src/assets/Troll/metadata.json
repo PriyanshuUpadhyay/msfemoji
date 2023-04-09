@@ -3,12 +3,7 @@
   "fromVersion": "14.0",
   "glyph": "🧌",
   "group": "People & Body",
-  "keywords": [
-    "fairy tale",
-    "fantasy",
-    "monster",
-    "troll"
-  ],
+  "keywords": ["fairy tale", "fantasy", "monster", "troll"],
   "tts": "troll",
   "unicode": "1f9cc"
 }

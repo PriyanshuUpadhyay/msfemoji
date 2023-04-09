@@ -3,15 +3,8 @@
   "fromVersion": "4.0",
   "glyph": "💆‍♀️",
   "group": "People & Body",
-  "keywords": [
-    "face",
-    "massage",
-    "woman",
-    "woman getting massage"
-  ],
-  "mappedToEmoticons": [
-    "face_massage"
-  ],
+  "keywords": ["face", "massage", "woman", "woman getting massage"],
+  "mappedToEmoticons": ["face_massage"],
   "tts": "woman getting massage",
   "unicode": "1f486 200d 2640 fe0f",
   "unicodeSkintones": [

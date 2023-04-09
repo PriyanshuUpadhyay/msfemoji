@@ -3,15 +3,8 @@
   "fromVersion": "1.0",
   "glyph": "⚙️",
   "group": "Objects",
-  "keywords": [
-    "cog",
-    "cogwheel",
-    "gear",
-    "tool"
-  ],
-  "mappedToEmoticons": [
-    "2699_gear"
-  ],
+  "keywords": ["cog", "cogwheel", "gear", "tool"],
+  "mappedToEmoticons": ["2699_gear"],
   "tts": "gear",
   "unicode": "2699 fe0f"
 }

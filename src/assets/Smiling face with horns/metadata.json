@@ -2,9 +2,7 @@
   "cldr": "smiling face with horns",
   "fromVersion": "1.0",
   "glyph": "😈",
-  "glyphAsUtfInEmoticons": [
-    "devil"
-  ],
+  "glyphAsUtfInEmoticons": ["devil"],
   "group": "Smileys & Emotion",
   "keywords": [
     "face",
@@ -14,9 +12,7 @@
     "smile",
     "smiling face with horns"
   ],
-  "mappedToEmoticons": [
-    "devil"
-  ],
+  "mappedToEmoticons": ["devil"],
   "tts": "smiling face with horns",
   "unicode": "1f608"
 }

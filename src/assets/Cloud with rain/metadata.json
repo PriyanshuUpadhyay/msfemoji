@@ -3,14 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "🌧️",
   "group": "Travel & Places",
-  "keywords": [
-    "cloud",
-    "cloud with rain",
-    "rain"
-  ],
-  "mappedToEmoticons": [
-    "rain"
-  ],
+  "keywords": ["cloud", "cloud with rain", "rain"],
+  "mappedToEmoticons": ["rain"],
   "tts": "cloud with rain",
   "unicode": "1f327 fe0f"
 }

@@ -3,13 +3,8 @@
   "fromVersion": "5.0",
   "glyph": "🧛‍♀️",
   "group": "People & Body",
-  "keywords": [
-    "undead",
-    "woman vampire"
-  ],
-  "mappedToEmoticons": [
-    "ladyvampire"
-  ],
+  "keywords": ["undead", "woman vampire"],
+  "mappedToEmoticons": ["ladyvampire"],
   "tts": "woman vampire",
   "unicode": "1f9db 200d 2640 fe0f",
   "unicodeSkintones": [

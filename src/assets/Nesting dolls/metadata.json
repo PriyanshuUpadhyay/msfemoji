@@ -3,15 +3,8 @@
   "fromVersion": "13.0",
   "glyph": "🪆",
   "group": "Activities",
-  "keywords": [
-    "doll",
-    "nesting",
-    "nesting dolls",
-    "russia"
-  ],
-  "mappedToEmoticons": [
-    "matreshka"
-  ],
+  "keywords": ["doll", "nesting", "nesting dolls", "russia"],
+  "mappedToEmoticons": ["matreshka"],
   "tts": "nesting dolls",
   "unicode": "1fa86"
 }

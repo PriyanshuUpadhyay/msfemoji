@@ -2,18 +2,10 @@
   "cldr": "bowling",
   "fromVersion": "0.6",
   "glyph": "🎳",
-  "glyphAsUtfInEmoticons": [
-    "bowlingball"
-  ],
+  "glyphAsUtfInEmoticons": ["bowlingball"],
   "group": "Activities",
-  "keywords": [
-    "ball",
-    "bowling",
-    "game"
-  ],
-  "mappedToEmoticons": [
-    "bowlingball"
-  ],
+  "keywords": ["ball", "bowling", "game"],
+  "mappedToEmoticons": ["bowlingball"],
   "tts": "bowling",
   "unicode": "1f3b3"
 }

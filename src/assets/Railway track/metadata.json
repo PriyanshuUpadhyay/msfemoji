@@ -3,14 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "🛤️",
   "group": "Travel & Places",
-  "keywords": [
-    "railway",
-    "railway track",
-    "train"
-  ],
-  "mappedToEmoticons": [
-    "1f6e4_railwaytrack"
-  ],
+  "keywords": ["railway", "railway track", "train"],
+  "mappedToEmoticons": ["1f6e4_railwaytrack"],
   "tts": "railway track",
   "unicode": "1f6e4 fe0f"
 }

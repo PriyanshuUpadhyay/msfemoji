@@ -3,13 +3,7 @@
   "fromVersion": "14.0",
   "glyph": "🫅",
   "group": "People & Body",
-  "keywords": [
-    "monarch",
-    "noble",
-    "person with crown",
-    "regal",
-    "royalty"
-  ],
+  "keywords": ["monarch", "noble", "person with crown", "regal", "royalty"],
   "tts": "person with crown",
   "unicode": "1fac5",
   "unicodeSkintones": [

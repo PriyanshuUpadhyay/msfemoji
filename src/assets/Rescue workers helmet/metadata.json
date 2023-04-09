@@ -11,9 +11,7 @@
     "helmet",
     "rescue worker’s helmet"
   ],
-  "mappedToEmoticons": [
-    "26d1_helmetwithwhitecross"
-  ],
+  "mappedToEmoticons": ["26d1_helmetwithwhitecross"],
   "tts": "rescue worker’s helmet",
   "unicode": "26d1 fe0f"
 }

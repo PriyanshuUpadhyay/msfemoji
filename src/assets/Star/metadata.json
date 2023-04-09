@@ -2,16 +2,10 @@
   "cldr": "star",
   "fromVersion": "0.6",
   "glyph": "⭐",
-  "glyphAsUtfInEmoticons": [
-    "star"
-  ],
+  "glyphAsUtfInEmoticons": ["star"],
   "group": "Travel & Places",
-  "keywords": [
-    "star"
-  ],
-  "mappedToEmoticons": [
-    "star"
-  ],
+  "keywords": ["star"],
+  "mappedToEmoticons": ["star"],
   "tts": "star",
   "unicode": "2b50"
 }

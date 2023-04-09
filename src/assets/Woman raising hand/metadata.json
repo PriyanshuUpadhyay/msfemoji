@@ -2,19 +2,10 @@
   "cldr": "woman raising hand",
   "fromVersion": "4.0",
   "glyph": "🙋‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "womanraisinghand"
-  ],
+  "glyphAsUtfInEmoticons": ["womanraisinghand"],
   "group": "People & Body",
-  "keywords": [
-    "gesture",
-    "raising hand",
-    "woman",
-    "woman raising hand"
-  ],
-  "mappedToEmoticons": [
-    "womanraisinghand"
-  ],
+  "keywords": ["gesture", "raising hand", "woman", "woman raising hand"],
+  "mappedToEmoticons": ["womanraisinghand"],
   "tts": "woman raising hand",
   "unicode": "1f64b 200d 2640 fe0f",
   "unicodeSkintones": [

@@ -11,6 +11,7 @@ import json
 from pathlib import Path
 import re
 import sys
+
 # from utils import styles
 
 styles = ["3D", "Color", "Flat", "High Contrast"]
@@ -18,10 +19,10 @@ styles = ["3D", "Color", "Flat", "High Contrast"]
 
 def main():
 
-    path = Path(__file__).parent.parent / 'src'
-    componentsPath = Path(__file__).parent.parent / 'src' / 'components'
+    path = Path(__file__).parent.parent / "src"
+    componentsPath = Path(__file__).parent.parent / "src" / "components"
 
-    indexFile = open(path / 'index.js', 'a+')
+    indexFile = open(path / "index.js", "a+")
 
     # rmeove all previous exports
     indexFile.seek(0)
@@ -30,12 +31,13 @@ def main():
     for style in styles:
         # indexFile.write(f"export {{ default as {style} }} from './components/{style}';\r ")
         stylePath = componentsPath / style
-        styleFiles = stylePath.glob('*.jsx')
+        styleFiles = stylePath.glob("*.jsx")
         for styleFile in styleFiles:
             fileName = styleFile.stem
             indexFile.write(
-                f"export {{ default as {fileName} }} from './components/{style}/{fileName}';\r")
+                f"export {{ default as {fileName} }} from './components/{style}/{fileName}';\r"
+            )
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     sys.exit(main())

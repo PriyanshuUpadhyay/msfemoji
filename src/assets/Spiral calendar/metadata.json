@@ -3,14 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "🗓️",
   "group": "Objects",
-  "keywords": [
-    "calendar",
-    "pad",
-    "spiral"
-  ],
-  "mappedToEmoticons": [
-    "1f4c6_tearoffcalendar"
-  ],
+  "keywords": ["calendar", "pad", "spiral"],
+  "mappedToEmoticons": ["1f4c6_tearoffcalendar"],
   "tts": "spiral calendar",
   "unicode": "1f5d3 fe0f"
 }

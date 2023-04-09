@@ -2,9 +2,7 @@
   "cldr": "up-left arrow",
   "fromVersion": "0.6",
   "glyph": "↖️",
-  "glyphAsUtfInEmoticons": [
-    "2196_northwestarrow"
-  ],
+  "glyphAsUtfInEmoticons": ["2196_northwestarrow"],
   "group": "Symbols",
   "keywords": [
     "arrow",
@@ -13,9 +11,7 @@
     "northwest",
     "up-left arrow"
   ],
-  "mappedToEmoticons": [
-    "2196_northwestarrow"
-  ],
+  "mappedToEmoticons": ["2196_northwestarrow"],
   "tts": "up-left arrow",
   "unicode": "2196 fe0f"
 }

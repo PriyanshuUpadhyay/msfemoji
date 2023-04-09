@@ -2,17 +2,10 @@
   "cldr": "seedling",
   "fromVersion": "0.6",
   "glyph": "🌱",
-  "glyphAsUtfInEmoticons": [
-    "seedling"
-  ],
+  "glyphAsUtfInEmoticons": ["seedling"],
   "group": "Animals & Nature",
-  "keywords": [
-    "seedling",
-    "young"
-  ],
-  "mappedToEmoticons": [
-    "seedling"
-  ],
+  "keywords": ["seedling", "young"],
+  "mappedToEmoticons": ["seedling"],
   "tts": "seedling",
   "unicode": "1f331"
 }

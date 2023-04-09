@@ -3,14 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "✍️",
   "group": "People & Body",
-  "keywords": [
-    "hand",
-    "write",
-    "writing hand"
-  ],
-  "mappedToEmoticons": [
-    "270d_writinghand"
-  ],
+  "keywords": ["hand", "write", "writing hand"],
+  "mappedToEmoticons": ["270d_writinghand"],
   "tts": "writing hand",
   "unicode": "270d fe0f",
   "unicodeSkintones": [

@@ -2,9 +2,7 @@
   "cldr": "hot face",
   "fromVersion": "11.0",
   "glyph": "🥵",
-  "glyphAsUtfInEmoticons": [
-    "1f975_hotface"
-  ],
+  "glyphAsUtfInEmoticons": ["1f975_hotface"],
   "group": "Smileys & Emotion",
   "keywords": [
     "feverish",
@@ -14,9 +12,7 @@
     "red-faced",
     "sweating"
   ],
-  "mappedToEmoticons": [
-    "1f975_hotface"
-  ],
+  "mappedToEmoticons": ["1f975_hotface"],
   "tts": "hot face",
   "unicode": "1f975"
 }

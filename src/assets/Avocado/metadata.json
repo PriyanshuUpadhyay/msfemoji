@@ -2,15 +2,9 @@
   "cldr": "avocado",
   "fromVersion": "3.0",
   "glyph": "🥑",
-  "glyphAsUtfInEmoticons": [
-    "avocadolove"
-  ],
+  "glyphAsUtfInEmoticons": ["avocadolove"],
   "group": "Food & Drink",
-  "keywords": [
-    "avocado",
-    "food",
-    "fruit"
-  ],
+  "keywords": ["avocado", "food", "fruit"],
   "tts": "avocado",
   "unicode": "1f951"
 }

@@ -2,19 +2,10 @@
   "cldr": "angry face",
   "fromVersion": "0.6",
   "glyph": "😠",
-  "glyphAsUtfInEmoticons": [
-    "angry"
-  ],
+  "glyphAsUtfInEmoticons": ["angry"],
   "group": "Smileys & Emotion",
-  "keywords": [
-    "anger",
-    "angry",
-    "face",
-    "mad"
-  ],
-  "mappedToEmoticons": [
-    "angry"
-  ],
+  "keywords": ["anger", "angry", "face", "mad"],
+  "mappedToEmoticons": ["angry"],
   "tts": "angry face",
   "unicode": "1f620"
 }

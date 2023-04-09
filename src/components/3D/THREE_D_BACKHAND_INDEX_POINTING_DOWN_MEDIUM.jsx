@@ -1,14 +1,12 @@
-import React from 'react';
-const componentPath = require('../../assets/Backhand index pointing down/Medium/3D/backhand_index_pointing_down_3d_medium.png');
+import React from "react";
+const componentPath = require("../../assets/Backhand index pointing down/Medium/3D/backhand_index_pointing_down_3d_medium.png");
 
 export function THREE_D_BACKHAND_INDEX_POINTING_DOWN_MEDIUM() {
-
   return (
-      <img
-          src={componentPath}
-          alt="THREE_D_BACKHAND_INDEX_POINTING_DOWN_MEDIUM"
-          style={{ width: "100%" }}
-      />
+    <img
+      src={componentPath}
+      alt="THREE_D_BACKHAND_INDEX_POINTING_DOWN_MEDIUM"
+      style={{ width: "100%" }}
+    />
   );
 }
-                              

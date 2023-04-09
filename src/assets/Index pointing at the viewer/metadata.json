@@ -3,11 +3,7 @@
   "fromVersion": "14.0",
   "glyph": "🫵",
   "group": "People & Body",
-  "keywords": [
-    "index pointing at the viewer",
-    "point",
-    "you"
-  ],
+  "keywords": ["index pointing at the viewer", "point", "you"],
   "tts": "index pointing at the viewer",
   "unicode": "1faf5",
   "unicodeSkintones": [

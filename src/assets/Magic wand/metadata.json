@@ -2,19 +2,10 @@
   "cldr": "magic wand",
   "fromVersion": "13.0",
   "glyph": "🪄",
-  "glyphAsUtfInEmoticons": [
-    "magicwand"
-  ],
+  "glyphAsUtfInEmoticons": ["magicwand"],
   "group": "Activities",
-  "keywords": [
-    "magic",
-    "magic wand",
-    "witch",
-    "wizard"
-  ],
-  "mappedToEmoticons": [
-    "magicwand"
-  ],
+  "keywords": ["magic", "magic wand", "witch", "wizard"],
+  "mappedToEmoticons": ["magicwand"],
   "tts": "magic wand",
   "unicode": "1fa84"
 }

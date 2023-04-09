@@ -2,9 +2,7 @@
   "cldr": "envelope with arrow",
   "fromVersion": "0.6",
   "glyph": "📩",
-  "glyphAsUtfInEmoticons": [
-    "1f4e9_envelopewitharrow"
-  ],
+  "glyphAsUtfInEmoticons": ["1f4e9_envelopewitharrow"],
   "group": "Objects",
   "keywords": [
     "arrow",
@@ -14,9 +12,7 @@
     "envelope with arrow",
     "outgoing"
   ],
-  "mappedToEmoticons": [
-    "1f4e9_envelopewitharrow"
-  ],
+  "mappedToEmoticons": ["1f4e9_envelopewitharrow"],
   "tts": "envelope with arrow",
   "unicode": "1f4e9"
 }

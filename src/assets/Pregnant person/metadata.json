@@ -3,13 +3,7 @@
   "fromVersion": "14.0",
   "glyph": "🫄",
   "group": "People & Body",
-  "keywords": [
-    "belly",
-    "bloated",
-    "full",
-    "pregnant",
-    "pregnant person"
-  ],
+  "keywords": ["belly", "bloated", "full", "pregnant", "pregnant person"],
   "tts": "pregnant person",
   "unicode": "1fac4",
   "unicodeSkintones": [

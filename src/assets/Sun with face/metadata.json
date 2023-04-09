@@ -3,15 +3,8 @@
   "fromVersion": "1.0",
   "glyph": "🌞",
   "group": "Travel & Places",
-  "keywords": [
-    "bright",
-    "face",
-    "sun",
-    "sun with face"
-  ],
-  "mappedToEmoticons": [
-    "sun"
-  ],
+  "keywords": ["bright", "face", "sun", "sun with face"],
+  "mappedToEmoticons": ["sun"],
   "tts": "sun with face",
   "unicode": "1f31e"
 }

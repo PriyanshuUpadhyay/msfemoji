@@ -2,19 +2,10 @@
   "cldr": "man vampire",
   "fromVersion": "5.0",
   "glyph": "🧛‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "dracula",
-    "vampire"
-  ],
+  "glyphAsUtfInEmoticons": ["dracula", "vampire"],
   "group": "People & Body",
-  "keywords": [
-    "Dracula",
-    "man vampire",
-    "undead"
-  ],
-  "mappedToEmoticons": [
-    "dracula"
-  ],
+  "keywords": ["Dracula", "man vampire", "undead"],
+  "mappedToEmoticons": ["dracula"],
   "tts": "man vampire",
   "unicode": "1f9db 200d 2642 fe0f",
   "unicodeSkintones": [

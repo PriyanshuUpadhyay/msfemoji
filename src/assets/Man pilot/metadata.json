@@ -2,18 +2,10 @@
   "cldr": "man pilot",
   "fromVersion": "4.0",
   "glyph": "👨‍✈️",
-  "glyphAsUtfInEmoticons": [
-    "manpilot"
-  ],
+  "glyphAsUtfInEmoticons": ["manpilot"],
   "group": "People & Body",
-  "keywords": [
-    "man",
-    "pilot",
-    "plane"
-  ],
-  "mappedToEmoticons": [
-    "manpilot"
-  ],
+  "keywords": ["man", "pilot", "plane"],
+  "mappedToEmoticons": ["manpilot"],
   "tts": "man pilot",
   "unicode": "1f468 200d 2708 fe0f",
   "unicodeSkintones": [

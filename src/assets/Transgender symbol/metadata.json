@@ -2,17 +2,10 @@
   "cldr": "transgender symbol",
   "fromVersion": "13.0",
   "glyph": "⚧️",
-  "glyphAsUtfInEmoticons": [
-    "transgendersymbol"
-  ],
+  "glyphAsUtfInEmoticons": ["transgendersymbol"],
   "group": "Symbols",
-  "keywords": [
-    "transgender",
-    "transgender symbol"
-  ],
-  "mappedToEmoticons": [
-    "transgendersymbol"
-  ],
+  "keywords": ["transgender", "transgender symbol"],
+  "mappedToEmoticons": ["transgendersymbol"],
   "tts": "transgender symbol",
   "unicode": "26a7 fe0f"
 }

@@ -2,17 +2,10 @@
   "cldr": "lizard",
   "fromVersion": "3.0",
   "glyph": "🦎",
-  "glyphAsUtfInEmoticons": [
-    "lizard"
-  ],
+  "glyphAsUtfInEmoticons": ["lizard"],
   "group": "Animals & Nature",
-  "keywords": [
-    "lizard",
-    "reptile"
-  ],
-  "mappedToEmoticons": [
-    "lizard"
-  ],
+  "keywords": ["lizard", "reptile"],
+  "mappedToEmoticons": ["lizard"],
   "tts": "lizard",
   "unicode": "1f98e"
 }

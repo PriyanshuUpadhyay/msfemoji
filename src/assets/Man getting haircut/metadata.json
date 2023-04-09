@@ -2,18 +2,10 @@
   "cldr": "man getting haircut",
   "fromVersion": "4.0",
   "glyph": "💇‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "man_getting_haircut"
-  ],
+  "glyphAsUtfInEmoticons": ["man_getting_haircut"],
   "group": "People & Body",
-  "keywords": [
-    "haircut",
-    "man",
-    "man getting haircut"
-  ],
-  "mappedToEmoticons": [
-    "man_getting_haircut"
-  ],
+  "keywords": ["haircut", "man", "man getting haircut"],
+  "mappedToEmoticons": ["man_getting_haircut"],
   "tts": "man getting haircut",
   "unicode": "1f487 200d 2642 fe0f",
   "unicodeSkintones": [

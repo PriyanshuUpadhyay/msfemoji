@@ -2,16 +2,10 @@
   "cldr": "whale",
   "fromVersion": "1.0",
   "glyph": "🐋",
-  "glyphAsUtfInEmoticons": [
-    "whale"
-  ],
+  "glyphAsUtfInEmoticons": ["whale"],
   "group": "Animals & Nature",
-  "keywords": [
-    "whale"
-  ],
-  "mappedToEmoticons": [
-    "whale"
-  ],
+  "keywords": ["whale"],
+  "mappedToEmoticons": ["whale"],
   "tts": "whale",
   "unicode": "1f40b"
 }

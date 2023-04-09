@@ -11,25 +11,21 @@ import json
 from pathlib import Path
 import re
 import sys
+
 # from utils import styles
 
-SK_FOLDERS = {'Default',
-              'Light',
-              'Medium-Light',
-              'Medium',
-              'Medium-Dark',
-              'Dark'}
+SK_FOLDERS = {"Default", "Light", "Medium-Light", "Medium", "Medium-Dark", "Dark"}
 
 groups = [
-    'Objects',
-    'People & Body',
-    'Smileys & Emotion',
-    'Animals & Nature',
-    'Food & Drink',
-    'Symbols',
-    'Travel & Places',
-    'Activities',
-    'Flags',
+    "Objects",
+    "People & Body",
+    "Smileys & Emotion",
+    "Animals & Nature",
+    "Food & Drink",
+    "Symbols",
+    "Travel & Places",
+    "Activities",
+    "Flags",
 ]
 
 # styles = ["3D", "Color", "Flat", "High Contrast"]
@@ -45,30 +41,32 @@ def main():
     #                 type=Path)
     # opts = ap.parse_args()
 
-    path = Path(__file__).parent.parent / 'src' / 'assets'
+    path = Path(__file__).parent.parent / "src" / "assets"
     # print("🚀 ~ file: png.py:45 ~ path:", path)
     opts = argparse.Namespace(assets=path)
     # print("🚀 ~ file: png.py:47 ~ opts:", opts)
 
-    componentsPath = Path(__file__).parent.parent / 'src' / 'components'
+    componentsPath = Path(__file__).parent.parent / "src" / "components"
 
     errors = False
 
     for jp in opts.assets.rglob("**/metadata.json"):
         folder = jp.parent
-        with open(jp, 'r') as jf:
+        with open(jp, "r") as jf:
             md = json.load(jf)
 
-        uc = md.get('unicode')
+        uc = md.get("unicode")
         ucbase = uc.split(" ")[0]
-        sks = md.get('unicodeSkintones')
+        sks = md.get("unicodeSkintones")
 
         if sks is not None:
             # check unicode base at start of sk seq
             for sk in sks:
                 if not sk.startswith(ucbase):
                     errors = True
-                    print(f"{folder.name} metadata: unicodeSkintone {sk} doesn't start with {ucbase}")  # noqa: E501
+                    print(
+                        f"{folder.name} metadata: unicodeSkintone {sk} doesn't start with {ucbase}"
+                    )  # noqa: E501
 
             # check that all Skintone folders exist and contain styles
             for fldr in SK_FOLDERS:
@@ -79,31 +77,37 @@ def main():
                             continue
                         if not (folder / fldr / st).exists():
                             errors = True
-                            print(f"{folder.name}: missing {fldr}/{st} style folder")  # noqa: E501
+                            print(
+                                f"{folder.name}: missing {fldr}/{st} style folder"
+                            )  # noqa: E501
 
                         if (folder / fldr / st).exists():
                             actualFiles += 1
                             # react the st folder's file
-                            fileInsideStFolder = (
-                                folder / fldr / st).glob('*.png')
+                            fileInsideStFolder = (folder / fldr / st).glob("*.png")
                             if fileInsideStFolder:
                                 for file in fileInsideStFolder:
                                     # check if the file is in the components folder
                                     filePath = folder / fldr / st / file.name
                                     # print("🚀 ~ file: png.py:89 ~ filePath:", filePath)
-                                    componentName = "THREE_D_" + \
-                                        (str(folder.name)).upper(
-                                        ) + "_" + fldr.upper()
+                                    componentName = (
+                                        "THREE_D_"
+                                        + (str(folder.name)).upper()
+                                        + "_"
+                                        + fldr.upper()
+                                    )
 
                                     componentName = re.sub(
-                                        r"[^a-zA-Z0-9]+", "_", componentName)
+                                        r"[^a-zA-Z0-9]+", "_", componentName
+                                    )
 
                                     # print("🚀 ~ file: png.py:91 ~ componentName:", componentName)
-                                    assetPath = '../../assets' + \
-                                        str(filePath).replace(str(path), "")
+                                    assetPath = "../../assets" + str(filePath).replace(
+                                        str(path), ""
+                                    )
                                     # print("🚀 ~ file: png.py:93 ~ assetPath:", assetPath)
 
-                                    reactComponetData = f'''import React from 'react';
+                                    reactComponetData = f"""import React from 'react';
 const componentPath = require('{assetPath}');
 
 export function {componentName}() {{
@@ -116,11 +120,13 @@ export function {componentName}() {{
       />
   );
 }}
-                              '''
+                              """
                                     # print(
                                     # "🚀 ~ file: png.py:106 ~ reactComponetData:", reactComponetData)
                                     # write the file
-                                    with open(updatedCompnetPath / f"{componentName}.jsx", "w") as f:
+                                    with open(
+                                        updatedCompnetPath / f"{componentName}.jsx", "w"
+                                    ) as f:
                                         f.write(reactComponetData)
                                         filesCreated += 1
 
@@ -132,7 +138,9 @@ export function {componentName}() {{
             for fldr in SK_FOLDERS:
                 if (folder / fldr).exists():
                     errors = True
-                    print(f"{folder.name}: unexpected {fldr} skintone folder present")  # noqa: E501
+                    print(
+                        f"{folder.name}: unexpected {fldr} skintone folder present"
+                    )  # noqa: E501
             # ensure style folders are present
             for st in styles:
                 updatedCompnetPath = componentsPath / st
@@ -143,24 +151,21 @@ export function {componentName}() {{
                 if (folder / st).exists():
                     actualFiles += 1
                     # react the st folder's file
-                    fileInsideStFolder = (
-                        folder / st).glob('*.png')
+                    fileInsideStFolder = (folder / st).glob("*.png")
                     if fileInsideStFolder:
                         for file in fileInsideStFolder:
                             # check if the file is in the components folder
                             filePath = folder / st / file.name
                             # print("🚀 ~ file: png.py:89 ~ filePath:", filePath)
-                            componentName = "THREE_D_" + \
-                                (str(folder.name)).upper(
-                                )
-                            componentName = re.sub(
-                                r"[^a-zA-Z0-9]+", "_", componentName)
+                            componentName = "THREE_D_" + (str(folder.name)).upper()
+                            componentName = re.sub(r"[^a-zA-Z0-9]+", "_", componentName)
                             # print("🚀 ~ file: png.py:91 ~ componentName:", componentName)
-                            assetPath = '../../assets' + \
-                                str(filePath).replace(str(path), "")
+                            assetPath = "../../assets" + str(filePath).replace(
+                                str(path), ""
+                            )
                             # print("🚀 ~ file: png.py:93 ~ assetPath:", assetPath)
 
-                            reactComponetData = f'''import React from 'react';
+                            reactComponetData = f"""import React from 'react';
 const componentPath = require('{assetPath}');
 
 export function {componentName}() {{
@@ -173,11 +178,13 @@ export function {componentName}() {{
       />
   );
 }}
-                              '''
+                              """
                             # print(
                             # "🚀 ~ file: png.py:106 ~ reactComponetData:", reactComponetData)
                             # write the file
-                            with open(updatedCompnetPath / f"{componentName}.jsx", "w") as f:
+                            with open(
+                                updatedCompnetPath / f"{componentName}.jsx", "w"
+                            ) as f:
                                 f.write(reactComponetData)
                                 filesCreated += 1
 
@@ -186,5 +193,5 @@ export function {componentName}() {{
     return 1 if errors else 0
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     sys.exit(main())

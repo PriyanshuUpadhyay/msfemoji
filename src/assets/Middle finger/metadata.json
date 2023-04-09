@@ -2,18 +2,10 @@
   "cldr": "middle finger",
   "fromVersion": "1.0",
   "glyph": "🖕",
-  "glyphAsUtfInEmoticons": [
-    "finger"
-  ],
+  "glyphAsUtfInEmoticons": ["finger"],
   "group": "People & Body",
-  "keywords": [
-    "finger",
-    "hand",
-    "middle finger"
-  ],
-  "mappedToEmoticons": [
-    "middlefinger"
-  ],
+  "keywords": ["finger", "hand", "middle finger"],
+  "mappedToEmoticons": ["middlefinger"],
   "tts": "middle finger",
   "unicode": "1f595",
   "unicodeSkintones": [

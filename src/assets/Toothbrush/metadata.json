@@ -2,9 +2,7 @@
   "cldr": "toothbrush",
   "fromVersion": "13.0",
   "glyph": "🪥",
-  "glyphAsUtfInEmoticons": [
-    "toothbrush"
-  ],
+  "glyphAsUtfInEmoticons": ["toothbrush"],
   "group": "Objects",
   "keywords": [
     "bathroom",
@@ -15,9 +13,7 @@
     "teeth",
     "toothbrush"
   ],
-  "mappedToEmoticons": [
-    "toothbrush"
-  ],
+  "mappedToEmoticons": ["toothbrush"],
   "tts": "toothbrush",
   "unicode": "1faa5"
 }

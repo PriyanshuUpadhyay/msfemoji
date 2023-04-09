@@ -2,19 +2,10 @@
   "cldr": "woman wearing turban",
   "fromVersion": "4.0",
   "glyph": "👳‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_wearing_turban",
-    "womanwearingturban"
-  ],
+  "glyphAsUtfInEmoticons": ["woman_wearing_turban", "womanwearingturban"],
   "group": "People & Body",
-  "keywords": [
-    "turban",
-    "woman",
-    "woman wearing turban"
-  ],
-  "mappedToEmoticons": [
-    "womanwearingturban"
-  ],
+  "keywords": ["turban", "woman", "woman wearing turban"],
+  "mappedToEmoticons": ["womanwearingturban"],
   "tts": "woman wearing turban",
   "unicode": "1f473 200d 2640 fe0f",
   "unicodeSkintones": [

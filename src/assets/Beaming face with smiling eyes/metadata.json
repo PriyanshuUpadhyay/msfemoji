@@ -2,9 +2,7 @@
   "cldr": "beaming face with smiling eyes",
   "fromVersion": "0.6",
   "glyph": "😁",
-  "glyphAsUtfInEmoticons": [
-    "1f601_beamingfacewithsmilingeyes"
-  ],
+  "glyphAsUtfInEmoticons": ["1f601_beamingfacewithsmilingeyes"],
   "group": "Smileys & Emotion",
   "keywords": [
     "beaming face with smiling eyes",
@@ -13,9 +11,7 @@
     "grin",
     "smile"
   ],
-  "mappedToEmoticons": [
-    "1f601_beamingfacewithsmilingeyes"
-  ],
+  "mappedToEmoticons": ["1f601_beamingfacewithsmilingeyes"],
   "tts": "beaming face with smiling eyes",
   "unicode": "1f601"
 }

@@ -2,17 +2,10 @@
   "cldr": "watermelon",
   "fromVersion": "0.6",
   "glyph": "🍉",
-  "glyphAsUtfInEmoticons": [
-    "watermelon"
-  ],
+  "glyphAsUtfInEmoticons": ["watermelon"],
   "group": "Food & Drink",
-  "keywords": [
-    "fruit",
-    "watermelon"
-  ],
-  "mappedToEmoticons": [
-    "watermelon"
-  ],
+  "keywords": ["fruit", "watermelon"],
+  "mappedToEmoticons": ["watermelon"],
   "tts": "watermelon",
   "unicode": "1f349"
 }

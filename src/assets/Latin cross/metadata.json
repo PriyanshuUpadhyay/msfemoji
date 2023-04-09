@@ -2,19 +2,10 @@
   "cldr": "latin cross",
   "fromVersion": "0.7",
   "glyph": "✝️",
-  "glyphAsUtfInEmoticons": [
-    "271d_latincross"
-  ],
+  "glyphAsUtfInEmoticons": ["271d_latincross"],
   "group": "Symbols",
-  "keywords": [
-    "Christian",
-    "cross",
-    "latin cross",
-    "religion"
-  ],
-  "mappedToEmoticons": [
-    "271d_latincross"
-  ],
+  "keywords": ["Christian", "cross", "latin cross", "religion"],
+  "mappedToEmoticons": ["271d_latincross"],
   "tts": "latin cross",
   "unicode": "271d fe0f"
 }

@@ -2,18 +2,10 @@
   "cldr": "banjo",
   "fromVersion": "12.0",
   "glyph": "🪕",
-  "glyphAsUtfInEmoticons": [
-    "1fa95_banjo"
-  ],
+  "glyphAsUtfInEmoticons": ["1fa95_banjo"],
   "group": "Objects",
-  "keywords": [
-    "banjo",
-    "music",
-    "stringed"
-  ],
-  "mappedToEmoticons": [
-    "1fa95_banjo"
-  ],
+  "keywords": ["banjo", "music", "stringed"],
+  "mappedToEmoticons": ["1fa95_banjo"],
   "tts": "banjo",
   "unicode": "1fa95"
 }

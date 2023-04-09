@@ -3,15 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "🖐️",
   "group": "People & Body",
-  "keywords": [
-    "finger",
-    "hand",
-    "hand with fingers splayed",
-    "splayed"
-  ],
-  "mappedToEmoticons": [
-    "1f590_handwithfingerssplayed"
-  ],
+  "keywords": ["finger", "hand", "hand with fingers splayed", "splayed"],
+  "mappedToEmoticons": ["1f590_handwithfingerssplayed"],
   "tts": "hand with fingers splayed",
   "unicode": "1f590 fe0f",
   "unicodeSkintones": [

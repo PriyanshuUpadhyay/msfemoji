@@ -10,9 +10,7 @@
     "previous track",
     "triangle"
   ],
-  "mappedToEmoticons": [
-    "23ee_lasttrack"
-  ],
+  "mappedToEmoticons": ["23ee_lasttrack"],
   "tts": "last track button",
   "unicode": "23ee fe0f"
 }

@@ -2,9 +2,7 @@
   "cldr": "no pedestrians",
   "fromVersion": "1.0",
   "glyph": "🚷",
-  "glyphAsUtfInEmoticons": [
-    "1f6b7_nopedestrians"
-  ],
+  "glyphAsUtfInEmoticons": ["1f6b7_nopedestrians"],
   "group": "Symbols",
   "keywords": [
     "forbidden",
@@ -14,9 +12,7 @@
     "pedestrian",
     "prohibited"
   ],
-  "mappedToEmoticons": [
-    "1f6b7_nopedestrians"
-  ],
+  "mappedToEmoticons": ["1f6b7_nopedestrians"],
   "tts": "no pedestrians",
   "unicode": "1f6b7"
 }

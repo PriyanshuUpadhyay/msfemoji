@@ -2,9 +2,7 @@
   "cldr": "woman health worker",
   "fromVersion": "4.0",
   "glyph": "👩‍⚕️",
-  "glyphAsUtfInEmoticons": [
-    "womanhealthworker"
-  ],
+  "glyphAsUtfInEmoticons": ["womanhealthworker"],
   "group": "People & Body",
   "keywords": [
     "doctor",
@@ -14,9 +12,7 @@
     "woman",
     "woman health worker"
   ],
-  "mappedToEmoticons": [
-    "womanhealthworker"
-  ],
+  "mappedToEmoticons": ["womanhealthworker"],
   "tts": "woman health worker",
   "unicode": "1f469 200d 2695 fe0f",
   "unicodeSkintones": [

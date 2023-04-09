@@ -2,9 +2,7 @@
   "cldr": "water pistol",
   "fromVersion": "0.6",
   "glyph": "🔫",
-  "glyphAsUtfInEmoticons": [
-    "1f52b_pistol"
-  ],
+  "glyphAsUtfInEmoticons": ["1f52b_pistol"],
   "group": "Objects",
   "keywords": [
     "gun",
@@ -15,9 +13,7 @@
     "water",
     "weapon"
   ],
-  "mappedToEmoticons": [
-    "1f52b_pistol"
-  ],
+  "mappedToEmoticons": ["1f52b_pistol"],
   "tts": "water pistol",
   "unicode": "1f52b"
 }

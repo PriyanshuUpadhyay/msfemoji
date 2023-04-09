@@ -3,16 +3,8 @@
   "fromVersion": "12.1",
   "glyph": "🧑‍🔬",
   "group": "People & Body",
-  "keywords": [
-    "biologist",
-    "chemist",
-    "engineer",
-    "physicist",
-    "scientist"
-  ],
-  "mappedToEmoticons": [
-    "personscientist"
-  ],
+  "keywords": ["biologist", "chemist", "engineer", "physicist", "scientist"],
+  "mappedToEmoticons": ["personscientist"],
   "tts": "scientist",
   "unicode": "1f9d1 200d 1f52c",
   "unicodeSkintones": [

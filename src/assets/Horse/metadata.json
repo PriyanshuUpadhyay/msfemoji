@@ -2,19 +2,10 @@
   "cldr": "horse",
   "fromVersion": "0.6",
   "glyph": "🐎",
-  "glyphAsUtfInEmoticons": [
-    "1f40e_horse"
-  ],
+  "glyphAsUtfInEmoticons": ["1f40e_horse"],
   "group": "Animals & Nature",
-  "keywords": [
-    "equestrian",
-    "horse",
-    "racehorse",
-    "racing"
-  ],
-  "mappedToEmoticons": [
-    "1f40e_horse"
-  ],
+  "keywords": ["equestrian", "horse", "racehorse", "racing"],
+  "mappedToEmoticons": ["1f40e_horse"],
   "tts": "horse",
   "unicode": "1f40e"
 }

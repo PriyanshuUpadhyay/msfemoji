@@ -11,9 +11,7 @@
     "trouble",
     "whoa"
   ],
-  "mappedToEmoticons": [
-    "facewithspiraleyes"
-  ],
+  "mappedToEmoticons": ["facewithspiraleyes"],
   "tts": "face with spiral eyes",
   "unicode": "1f635 200d 1f4ab"
 }

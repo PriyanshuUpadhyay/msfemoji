@@ -2,17 +2,10 @@
   "cldr": "woman kneeling",
   "fromVersion": "12.0",
   "glyph": "🧎‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_kneeling"
-  ],
+  "glyphAsUtfInEmoticons": ["woman_kneeling"],
   "group": "People & Body",
-  "keywords": [
-    "kneeling",
-    "woman"
-  ],
-  "mappedToEmoticons": [
-    "woman_kneeling"
-  ],
+  "keywords": ["kneeling", "woman"],
+  "mappedToEmoticons": ["woman_kneeling"],
   "tts": "woman kneeling",
   "unicode": "1f9ce 200d 2640 fe0f",
   "unicodeSkintones": [

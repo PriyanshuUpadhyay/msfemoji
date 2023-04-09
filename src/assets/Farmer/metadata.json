@@ -3,14 +3,8 @@
   "fromVersion": "12.1",
   "glyph": "🧑‍🌾",
   "group": "People & Body",
-  "keywords": [
-    "farmer",
-    "gardener",
-    "rancher"
-  ],
-  "mappedToEmoticons": [
-    "personfarmer"
-  ],
+  "keywords": ["farmer", "gardener", "rancher"],
+  "mappedToEmoticons": ["personfarmer"],
   "tts": "farmer",
   "unicode": "1f9d1 200d 1f33e",
   "unicodeSkintones": [

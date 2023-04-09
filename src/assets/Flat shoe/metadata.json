@@ -2,19 +2,10 @@
   "cldr": "flat shoe",
   "fromVersion": "11.0",
   "glyph": "🥿",
-  "glyphAsUtfInEmoticons": [
-    "1f97f_womansflatshoe"
-  ],
+  "glyphAsUtfInEmoticons": ["1f97f_womansflatshoe"],
   "group": "Objects",
-  "keywords": [
-    "ballet flat",
-    "flat shoe",
-    "slip-on",
-    "slipper"
-  ],
-  "mappedToEmoticons": [
-    "1f97f_womansflatshoe"
-  ],
+  "keywords": ["ballet flat", "flat shoe", "slip-on", "slipper"],
+  "mappedToEmoticons": ["1f97f_womansflatshoe"],
   "tts": "flat shoe",
   "unicode": "1f97f"
 }

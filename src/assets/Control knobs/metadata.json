@@ -3,14 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "🎛️",
   "group": "Objects",
-  "keywords": [
-    "control",
-    "knobs",
-    "music"
-  ],
-  "mappedToEmoticons": [
-    "1f39b_controlknobs"
-  ],
+  "keywords": ["control", "knobs", "music"],
+  "mappedToEmoticons": ["1f39b_controlknobs"],
   "tts": "control knobs",
   "unicode": "1f39b fe0f"
 }

@@ -2,9 +2,7 @@
   "cldr": "woman in motorized wheelchair",
   "fromVersion": "12.0",
   "glyph": "👩‍🦼",
-  "glyphAsUtfInEmoticons": [
-    "woman_in_motorized_wheelchair"
-  ],
+  "glyphAsUtfInEmoticons": ["woman_in_motorized_wheelchair"],
   "group": "People & Body",
   "keywords": [
     "accessibility",
@@ -12,9 +10,7 @@
     "woman",
     "woman in motorized wheelchair"
   ],
-  "mappedToEmoticons": [
-    "woman_in_motorized_wheelchair"
-  ],
+  "mappedToEmoticons": ["woman_in_motorized_wheelchair"],
   "tts": "woman in motorized wheelchair",
   "unicode": "1f469 200d 1f9bc",
   "unicodeSkintones": [

@@ -2,18 +2,10 @@
   "cldr": "honeybee",
   "fromVersion": "0.6",
   "glyph": "🐝",
-  "glyphAsUtfInEmoticons": [
-    "bee"
-  ],
+  "glyphAsUtfInEmoticons": ["bee"],
   "group": "Animals & Nature",
-  "keywords": [
-    "bee",
-    "honeybee",
-    "insect"
-  ],
-  "mappedToEmoticons": [
-    "bee"
-  ],
+  "keywords": ["bee", "honeybee", "insect"],
+  "mappedToEmoticons": ["bee"],
   "tts": "honeybee",
   "unicode": "1f41d"
 }

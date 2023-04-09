@@ -2,17 +2,10 @@
   "cldr": "Virgo",
   "fromVersion": "0.6",
   "glyph": "♍",
-  "glyphAsUtfInEmoticons": [
-    "264d_virgo"
-  ],
+  "glyphAsUtfInEmoticons": ["264d_virgo"],
   "group": "Symbols",
-  "keywords": [
-    "Virgo",
-    "zodiac"
-  ],
-  "mappedToEmoticons": [
-    "264d_virgo"
-  ],
+  "keywords": ["Virgo", "zodiac"],
+  "mappedToEmoticons": ["264d_virgo"],
   "tts": "Virgo",
   "unicode": "264d"
 }

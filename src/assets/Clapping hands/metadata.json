@@ -2,19 +2,10 @@
   "cldr": "clapping hands",
   "fromVersion": "0.6",
   "glyph": "👏",
-  "glyphAsUtfInEmoticons": [
-    "clap"
-  ],
+  "glyphAsUtfInEmoticons": ["clap"],
   "group": "People & Body",
-  "keywords": [
-    "clap",
-    "clapping hands",
-    "hand"
-  ],
-  "mappedToEmoticons": [
-    "clappinghands",
-    "clappinghandsskype"
-  ],
+  "keywords": ["clap", "clapping hands", "hand"],
+  "mappedToEmoticons": ["clappinghands", "clappinghandsskype"],
   "tts": "clapping hands",
   "unicode": "1f44f",
   "unicodeSkintones": [

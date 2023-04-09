@@ -2,9 +2,7 @@
   "cldr": "Japanese “acceptable” button",
   "fromVersion": "0.6",
   "glyph": "🉑",
-  "glyphAsUtfInEmoticons": [
-    "1f251_circledideographaccept"
-  ],
+  "glyphAsUtfInEmoticons": ["1f251_circledideographaccept"],
   "group": "Symbols",
   "keywords": [
     "“acceptable”",
@@ -13,9 +11,7 @@
     "Japanese “acceptable” button",
     "可"
   ],
-  "mappedToEmoticons": [
-    "1f251_circledideographaccept"
-  ],
+  "mappedToEmoticons": ["1f251_circledideographaccept"],
   "tts": "Japanese “acceptable” button",
   "unicode": "1f251"
 }

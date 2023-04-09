@@ -2,20 +2,10 @@
   "cldr": "woman gesturing OK",
   "fromVersion": "4.0",
   "glyph": "🙆‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "womangesturingok"
-  ],
+  "glyphAsUtfInEmoticons": ["womangesturingok"],
   "group": "People & Body",
-  "keywords": [
-    "gesture",
-    "hand",
-    "OK",
-    "woman",
-    "woman gesturing OK"
-  ],
-  "mappedToEmoticons": [
-    "womangesturingok"
-  ],
+  "keywords": ["gesture", "hand", "OK", "woman", "woman gesturing OK"],
+  "mappedToEmoticons": ["womangesturingok"],
   "tts": "woman gesturing OK",
   "unicode": "1f646 200d 2640 fe0f",
   "unicodeSkintones": [

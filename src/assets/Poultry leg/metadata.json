@@ -2,20 +2,10 @@
   "cldr": "poultry leg",
   "fromVersion": "0.6",
   "glyph": "🍗",
-  "glyphAsUtfInEmoticons": [
-    "chickenleg"
-  ],
+  "glyphAsUtfInEmoticons": ["chickenleg"],
   "group": "Food & Drink",
-  "keywords": [
-    "bone",
-    "chicken",
-    "drumstick",
-    "leg",
-    "poultry"
-  ],
-  "mappedToEmoticons": [
-    "chickenleg"
-  ],
+  "keywords": ["bone", "chicken", "drumstick", "leg", "poultry"],
+  "mappedToEmoticons": ["chickenleg"],
   "tts": "poultry leg",
   "unicode": "1f357"
 }

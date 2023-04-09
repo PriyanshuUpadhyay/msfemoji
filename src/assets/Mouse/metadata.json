@@ -2,16 +2,10 @@
   "cldr": "mouse",
   "fromVersion": "1.0",
   "glyph": "🐁",
-  "glyphAsUtfInEmoticons": [
-    "1f401_mouse"
-  ],
+  "glyphAsUtfInEmoticons": ["1f401_mouse"],
   "group": "Animals & Nature",
-  "keywords": [
-    "mouse"
-  ],
-  "mappedToEmoticons": [
-    "1f401_mouse"
-  ],
+  "keywords": ["mouse"],
+  "mappedToEmoticons": ["1f401_mouse"],
   "tts": "mouse",
   "unicode": "1f401"
 }

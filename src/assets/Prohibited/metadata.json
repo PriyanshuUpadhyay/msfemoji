@@ -2,20 +2,10 @@
   "cldr": "prohibited",
   "fromVersion": "0.6",
   "glyph": "🚫",
-  "glyphAsUtfInEmoticons": [
-    "1f6ab_noentrysign"
-  ],
+  "glyphAsUtfInEmoticons": ["1f6ab_noentrysign"],
   "group": "Symbols",
-  "keywords": [
-    "entry",
-    "forbidden",
-    "no",
-    "not",
-    "prohibited"
-  ],
-  "mappedToEmoticons": [
-    "1f6ab_noentrysign"
-  ],
+  "keywords": ["entry", "forbidden", "no", "not", "prohibited"],
+  "mappedToEmoticons": ["1f6ab_noentrysign"],
   "tts": "prohibited",
   "unicode": "1f6ab"
 }

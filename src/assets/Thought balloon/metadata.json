@@ -2,19 +2,10 @@
   "cldr": "thought balloon",
   "fromVersion": "1.0",
   "glyph": "💭",
-  "glyphAsUtfInEmoticons": [
-    "1f4ad_thoughtballoon"
-  ],
+  "glyphAsUtfInEmoticons": ["1f4ad_thoughtballoon"],
   "group": "Smileys & Emotion",
-  "keywords": [
-    "balloon",
-    "bubble",
-    "comic",
-    "thought"
-  ],
-  "mappedToEmoticons": [
-    "1f4ad_thoughtballoon"
-  ],
+  "keywords": ["balloon", "bubble", "comic", "thought"],
+  "mappedToEmoticons": ["1f4ad_thoughtballoon"],
   "tts": "thought balloon",
   "unicode": "1f4ad"
 }

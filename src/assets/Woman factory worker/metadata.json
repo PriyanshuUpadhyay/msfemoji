@@ -2,20 +2,10 @@
   "cldr": "woman factory worker",
   "fromVersion": "4.0",
   "glyph": "👩‍🏭",
-  "glyphAsUtfInEmoticons": [
-    "womanwelder"
-  ],
+  "glyphAsUtfInEmoticons": ["womanwelder"],
   "group": "People & Body",
-  "keywords": [
-    "assembly",
-    "factory",
-    "industrial",
-    "woman",
-    "worker"
-  ],
-  "mappedToEmoticons": [
-    "womanwelder"
-  ],
+  "keywords": ["assembly", "factory", "industrial", "woman", "worker"],
+  "mappedToEmoticons": ["womanwelder"],
   "tts": "woman factory worker",
   "unicode": "1f469 200d 1f3ed",
   "unicodeSkintones": [

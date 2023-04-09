@@ -2,9 +2,7 @@
   "cldr": "rolling on the floor laughing",
   "fromVersion": "3.0",
   "glyph": "🤣",
-  "glyphAsUtfInEmoticons": [
-    "rofl"
-  ],
+  "glyphAsUtfInEmoticons": ["rofl"],
   "group": "Smileys & Emotion",
   "keywords": [
     "face",
@@ -15,9 +13,7 @@
     "rolling on the floor laughing",
     "rotfl"
   ],
-  "mappedToEmoticons": [
-    "rofl"
-  ],
+  "mappedToEmoticons": ["rofl"],
   "tts": "rolling on the floor laughing",
   "unicode": "1f923"
 }

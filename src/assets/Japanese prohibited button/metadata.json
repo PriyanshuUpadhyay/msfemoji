@@ -2,9 +2,7 @@
   "cldr": "Japanese “prohibited” button",
   "fromVersion": "0.6",
   "glyph": "🈲",
-  "glyphAsUtfInEmoticons": [
-    "1f232_prohibited"
-  ],
+  "glyphAsUtfInEmoticons": ["1f232_prohibited"],
   "group": "Symbols",
   "keywords": [
     "“prohibited”",
@@ -13,9 +11,7 @@
     "Japanese “prohibited” button",
     "禁"
   ],
-  "mappedToEmoticons": [
-    "1f232_prohibited"
-  ],
+  "mappedToEmoticons": ["1f232_prohibited"],
   "tts": "Japanese “prohibited” button",
   "unicode": "1f232"
 }

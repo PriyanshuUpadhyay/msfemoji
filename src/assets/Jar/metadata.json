@@ -3,14 +3,7 @@
   "fromVersion": "14.0",
   "glyph": "🫙",
   "group": "Food & Drink",
-  "keywords": [
-    "condiment",
-    "container",
-    "empty",
-    "jar",
-    "sauce",
-    "store"
-  ],
+  "keywords": ["condiment", "container", "empty", "jar", "sauce", "store"],
   "tts": "jar",
   "unicode": "1fad9"
 }

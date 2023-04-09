@@ -11,9 +11,7 @@
     "grinning cat with smiling eyes",
     "smile"
   ],
-  "mappedToEmoticons": [
-    "laughcat"
-  ],
+  "mappedToEmoticons": ["laughcat"],
   "tts": "grinning cat with smiling eyes",
   "unicode": "1f638"
 }

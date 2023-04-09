@@ -2,9 +2,7 @@
   "cldr": "flower playing cards",
   "fromVersion": "0.6",
   "glyph": "🎴",
-  "glyphAsUtfInEmoticons": [
-    "1f3b4_flowerplayingcards"
-  ],
+  "glyphAsUtfInEmoticons": ["1f3b4_flowerplayingcards"],
   "group": "Activities",
   "keywords": [
     "card",
@@ -14,9 +12,7 @@
     "Japanese",
     "playing"
   ],
-  "mappedToEmoticons": [
-    "1f3b4_flowerplayingcards"
-  ],
+  "mappedToEmoticons": ["1f3b4_flowerplayingcards"],
   "tts": "flower playing cards",
   "unicode": "1f3b4"
 }

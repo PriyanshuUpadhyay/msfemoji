@@ -3,14 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "⛴️",
   "group": "Travel & Places",
-  "keywords": [
-    "boat",
-    "ferry",
-    "passenger"
-  ],
-  "mappedToEmoticons": [
-    "26f4_ferry"
-  ],
+  "keywords": ["boat", "ferry", "passenger"],
+  "mappedToEmoticons": ["26f4_ferry"],
   "tts": "ferry",
   "unicode": "26f4 fe0f"
 }

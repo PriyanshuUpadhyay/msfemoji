@@ -2,9 +2,7 @@
   "cldr": "speak-no-evil monkey",
   "fromVersion": "0.6",
   "glyph": "🙊",
-  "glyphAsUtfInEmoticons": [
-    "speaknoevil"
-  ],
+  "glyphAsUtfInEmoticons": ["speaknoevil"],
   "group": "Smileys & Emotion",
   "keywords": [
     "evil",
@@ -14,9 +12,7 @@
     "speak",
     "speak-no-evil monkey"
   ],
-  "mappedToEmoticons": [
-    "speaknoevil"
-  ],
+  "mappedToEmoticons": ["speaknoevil"],
   "tts": "speak-no-evil monkey",
   "unicode": "1f64a"
 }

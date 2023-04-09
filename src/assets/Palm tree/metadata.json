@@ -3,13 +3,8 @@
   "fromVersion": "0.6",
   "glyph": "🌴",
   "group": "Animals & Nature",
-  "keywords": [
-    "palm",
-    "tree"
-  ],
-  "mappedToEmoticons": [
-    "palmtree"
-  ],
+  "keywords": ["palm", "tree"],
+  "mappedToEmoticons": ["palmtree"],
   "tts": "palm tree",
   "unicode": "1f334"
 }

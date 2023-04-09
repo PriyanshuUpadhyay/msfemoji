@@ -13,9 +13,7 @@
     "punctuation",
     "question"
   ],
-  "mappedToEmoticons": [
-    "exclamationquestionmark"
-  ],
+  "mappedToEmoticons": ["exclamationquestionmark"],
   "tts": "exclamation question mark",
   "unicode": "2049 fe0f"
 }

@@ -3,15 +3,8 @@
   "fromVersion": "0.6",
   "glyph": "⛄",
   "group": "Travel & Places",
-  "keywords": [
-    "cold",
-    "snow",
-    "snowman",
-    "snowman without snow"
-  ],
-  "mappedToEmoticons": [
-    "snowmanwithoutsnow"
-  ],
+  "keywords": ["cold", "snow", "snowman", "snowman without snow"],
+  "mappedToEmoticons": ["snowmanwithoutsnow"],
   "tts": "snowman without snow",
   "unicode": "26c4"
 }

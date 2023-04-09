@@ -2,18 +2,10 @@
   "cldr": "lemon",
   "fromVersion": "1.0",
   "glyph": "🍋",
-  "glyphAsUtfInEmoticons": [
-    "lemon"
-  ],
+  "glyphAsUtfInEmoticons": ["lemon"],
   "group": "Food & Drink",
-  "keywords": [
-    "citrus",
-    "fruit",
-    "lemon"
-  ],
-  "mappedToEmoticons": [
-    "lemon"
-  ],
+  "keywords": ["citrus", "fruit", "lemon"],
+  "mappedToEmoticons": ["lemon"],
   "tts": "lemon",
   "unicode": "1f34b"
 }

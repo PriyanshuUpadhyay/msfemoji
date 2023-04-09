@@ -2,18 +2,10 @@
   "cldr": "koala",
   "fromVersion": "0.6",
   "glyph": "🐨",
-  "glyphAsUtfInEmoticons": [
-    "koala"
-  ],
+  "glyphAsUtfInEmoticons": ["koala"],
   "group": "Animals & Nature",
-  "keywords": [
-    "koala",
-    "face",
-    "marsupial"
-  ],
-  "mappedToEmoticons": [
-    "koala"
-  ],
+  "keywords": ["koala", "face", "marsupial"],
+  "mappedToEmoticons": ["koala"],
   "tts": "koala",
   "unicode": "1f428"
 }

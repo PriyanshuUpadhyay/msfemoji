@@ -11,9 +11,7 @@
     "lust",
     "sacred heart"
   ],
-  "mappedToEmoticons": [
-    "heartonfire"
-  ],
+  "mappedToEmoticons": ["heartonfire"],
   "tts": "heart on fire",
   "unicode": "2764 fe0f 200d 1f525"
 }

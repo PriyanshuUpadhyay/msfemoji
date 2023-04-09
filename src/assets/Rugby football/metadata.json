@@ -2,18 +2,10 @@
   "cldr": "rugby football",
   "fromVersion": "1.0",
   "glyph": "🏉",
-  "glyphAsUtfInEmoticons": [
-    "rugbyball"
-  ],
+  "glyphAsUtfInEmoticons": ["rugbyball"],
   "group": "Activities",
-  "keywords": [
-    "ball",
-    "football",
-    "rugby"
-  ],
-  "mappedToEmoticons": [
-    "rugbyball"
-  ],
+  "keywords": ["ball", "football", "rugby"],
+  "mappedToEmoticons": ["rugbyball"],
   "tts": "rugby football",
   "unicode": "1f3c9"
 }

@@ -2,18 +2,10 @@
   "cldr": "woman golfing",
   "fromVersion": "4.0",
   "glyph": "🏌️‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_golfer"
-  ],
+  "glyphAsUtfInEmoticons": ["woman_golfer"],
   "group": "People & Body",
-  "keywords": [
-    "golf",
-    "woman",
-    "woman golfing"
-  ],
-  "mappedToEmoticons": [
-    "woman_golfer"
-  ],
+  "keywords": ["golf", "woman", "woman golfing"],
+  "mappedToEmoticons": ["woman_golfer"],
   "tts": "woman golfing",
   "unicode": "1f3cc fe0f 200d 2640 fe0f",
   "unicodeSkintones": [

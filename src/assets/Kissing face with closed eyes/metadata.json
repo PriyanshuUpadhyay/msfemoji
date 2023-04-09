@@ -2,9 +2,7 @@
   "cldr": "kissing face with closed eyes",
   "fromVersion": "0.6",
   "glyph": "😚",
-  "glyphAsUtfInEmoticons": [
-    "1f61a_kissingfacewithclosedeyes"
-  ],
+  "glyphAsUtfInEmoticons": ["1f61a_kissingfacewithclosedeyes"],
   "group": "Smileys & Emotion",
   "keywords": [
     "closed",
@@ -13,9 +11,7 @@
     "kiss",
     "kissing face with closed eyes"
   ],
-  "mappedToEmoticons": [
-    "1f61a_kissingfacewithclosedeyes"
-  ],
+  "mappedToEmoticons": ["1f61a_kissingfacewithclosedeyes"],
   "tts": "kissing face with closed eyes",
   "unicode": "1f61a"
 }

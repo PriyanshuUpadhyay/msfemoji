@@ -2,18 +2,10 @@
   "cldr": "woman: curly hair",
   "fromVersion": "11.0",
   "glyph": "👩‍🦱",
-  "glyphAsUtfInEmoticons": [
-    "womancurlyhair"
-  ],
+  "glyphAsUtfInEmoticons": ["womancurlyhair"],
   "group": "People & Body",
-  "keywords": [
-    "adult",
-    "curly hair",
-    "woman"
-  ],
-  "mappedToEmoticons": [
-    "womancurlyhair"
-  ],
+  "keywords": ["adult", "curly hair", "woman"],
+  "mappedToEmoticons": ["womancurlyhair"],
   "tts": "woman: curly hair",
   "unicode": "1f469 200d 1f9b1",
   "unicodeSkintones": [

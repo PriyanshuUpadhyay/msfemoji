@@ -3,14 +3,8 @@
   "fromVersion": "0.6",
   "glyph": "🅾️",
   "group": "Symbols",
-  "keywords": [
-    "blood type",
-    "o",
-    "O button (blood type)"
-  ],
-  "mappedToEmoticons": [
-    "1f17e_bloodtype0"
-  ],
+  "keywords": ["blood type", "o", "O button (blood type)"],
+  "mappedToEmoticons": ["1f17e_bloodtype0"],
   "tts": "O button (blood type)",
   "unicode": "1f17e fe0f"
 }

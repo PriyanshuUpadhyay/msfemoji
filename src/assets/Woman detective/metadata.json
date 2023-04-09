@@ -2,19 +2,10 @@
   "cldr": "woman detective",
   "fromVersion": "4.0",
   "glyph": "🕵️‍♀️",
-  "glyphAsUtfInEmoticons": [
-    "woman_detective"
-  ],
+  "glyphAsUtfInEmoticons": ["woman_detective"],
   "group": "People & Body",
-  "keywords": [
-    "detective",
-    "sleuth",
-    "spy",
-    "woman"
-  ],
-  "mappedToEmoticons": [
-    "woman_detective"
-  ],
+  "keywords": ["detective", "sleuth", "spy", "woman"],
+  "mappedToEmoticons": ["woman_detective"],
   "tts": "woman detective",
   "unicode": "1f575 fe0f 200d 2640 fe0f",
   "unicodeSkintones": [

@@ -2,20 +2,10 @@
   "cldr": "flatbread",
   "fromVersion": "13.0",
   "glyph": "🫓",
-  "glyphAsUtfInEmoticons": [
-    "flatbread"
-  ],
+  "glyphAsUtfInEmoticons": ["flatbread"],
   "group": "Food & Drink",
-  "keywords": [
-    "arepa",
-    "flatbread",
-    "lavash",
-    "naan",
-    "pita"
-  ],
-  "mappedToEmoticons": [
-    "flatbread"
-  ],
+  "keywords": ["arepa", "flatbread", "lavash", "naan", "pita"],
+  "mappedToEmoticons": ["flatbread"],
   "tts": "flatbread",
   "unicode": "1fad3"
 }

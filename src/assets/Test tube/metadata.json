@@ -2,9 +2,7 @@
   "cldr": "test tube",
   "fromVersion": "11.0",
   "glyph": "🧪",
-  "glyphAsUtfInEmoticons": [
-    "1f9ea_testtube"
-  ],
+  "glyphAsUtfInEmoticons": ["1f9ea_testtube"],
   "group": "Objects",
   "keywords": [
     "chemist",
@@ -14,9 +12,7 @@
     "science",
     "test tube"
   ],
-  "mappedToEmoticons": [
-    "1f9ea_testtube"
-  ],
+  "mappedToEmoticons": ["1f9ea_testtube"],
   "tts": "test tube",
   "unicode": "1f9ea"
 }

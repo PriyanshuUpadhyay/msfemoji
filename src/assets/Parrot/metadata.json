@@ -2,19 +2,10 @@
   "cldr": "parrot",
   "fromVersion": "11.0",
   "glyph": "🦜",
-  "glyphAsUtfInEmoticons": [
-    "1f99c_parrot"
-  ],
+  "glyphAsUtfInEmoticons": ["1f99c_parrot"],
   "group": "Animals & Nature",
-  "keywords": [
-    "bird",
-    "parrot",
-    "pirate",
-    "talk"
-  ],
-  "mappedToEmoticons": [
-    "1f99c_parrot"
-  ],
+  "keywords": ["bird", "parrot", "pirate", "talk"],
+  "mappedToEmoticons": ["1f99c_parrot"],
   "tts": "parrot",
   "unicode": "1f99c"
 }

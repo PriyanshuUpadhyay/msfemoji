@@ -2,18 +2,10 @@
   "cldr": "white circle",
   "fromVersion": "0.6",
   "glyph": "⚪",
-  "glyphAsUtfInEmoticons": [
-    "26aa_mediumwhitecircle"
-  ],
+  "glyphAsUtfInEmoticons": ["26aa_mediumwhitecircle"],
   "group": "Symbols",
-  "keywords": [
-    "circle",
-    "geometric",
-    "white circle"
-  ],
-  "mappedToEmoticons": [
-    "26aa_mediumwhitecircle"
-  ],
+  "keywords": ["circle", "geometric", "white circle"],
+  "mappedToEmoticons": ["26aa_mediumwhitecircle"],
   "tts": "white circle",
   "unicode": "26aa"
 }

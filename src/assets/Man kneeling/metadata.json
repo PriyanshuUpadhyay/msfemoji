@@ -2,17 +2,10 @@
   "cldr": "man kneeling",
   "fromVersion": "12.0",
   "glyph": "🧎‍♂️",
-  "glyphAsUtfInEmoticons": [
-    "man_kneeling"
-  ],
+  "glyphAsUtfInEmoticons": ["man_kneeling"],
   "group": "People & Body",
-  "keywords": [
-    "kneeling",
-    "man"
-  ],
-  "mappedToEmoticons": [
-    "man_kneeling"
-  ],
+  "keywords": ["kneeling", "man"],
+  "mappedToEmoticons": ["man_kneeling"],
   "tts": "man kneeling",
   "unicode": "1f9ce 200d 2642 fe0f",
   "unicodeSkintones": [

@@ -3,14 +3,8 @@
   "fromVersion": "0.6",
   "glyph": "✌️",
   "group": "People & Body",
-  "keywords": [
-    "hand",
-    "v",
-    "victory"
-  ],
-  "mappedToEmoticons": [
-    "victory"
-  ],
+  "keywords": ["hand", "v", "victory"],
+  "mappedToEmoticons": ["victory"],
   "tts": "victory hand",
   "unicode": "270c fe0f",
   "unicodeSkintones": [

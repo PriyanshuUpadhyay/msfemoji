@@ -2,17 +2,10 @@
   "cldr": "crescent moon",
   "fromVersion": "0.6",
   "glyph": "🌙",
-  "glyphAsUtfInEmoticons": [
-    "1f319_crescentmoon"
-  ],
+  "glyphAsUtfInEmoticons": ["1f319_crescentmoon"],
   "group": "Travel & Places",
-  "keywords": [
-    "crescent",
-    "moon"
-  ],
-  "mappedToEmoticons": [
-    "1f319_crescentmoon"
-  ],
+  "keywords": ["crescent", "moon"],
+  "mappedToEmoticons": ["1f319_crescentmoon"],
   "tts": "crescent moon",
   "unicode": "1f319"
 }

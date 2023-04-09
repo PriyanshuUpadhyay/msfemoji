@@ -2,21 +2,10 @@
   "cldr": "knot",
   "fromVersion": "13.0",
   "glyph": "🪢",
-  "glyphAsUtfInEmoticons": [
-    "knot"
-  ],
+  "glyphAsUtfInEmoticons": ["knot"],
   "group": "Activities",
-  "keywords": [
-    "knot",
-    "rope",
-    "tangled",
-    "tie",
-    "twine",
-    "twist"
-  ],
-  "mappedToEmoticons": [
-    "knot"
-  ],
+  "keywords": ["knot", "rope", "tangled", "tie", "twine", "twist"],
+  "mappedToEmoticons": ["knot"],
   "tts": "knot",
   "unicode": "1faa2"
 }

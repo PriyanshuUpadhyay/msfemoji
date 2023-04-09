@@ -3,11 +3,7 @@
   "fromVersion": "14.0",
   "glyph": "🟰",
   "group": "Symbols",
-  "keywords": [
-    "equality",
-    "heavy equals sign",
-    "math"
-  ],
+  "keywords": ["equality", "heavy equals sign", "math"],
   "tts": "heavy equals sign",
   "unicode": "1f7f0"
 }

@@ -3,14 +3,8 @@
   "fromVersion": "4.0",
   "glyph": "🤹‍♂️",
   "group": "People & Body",
-  "keywords": [
-    "juggling",
-    "man",
-    "multitask"
-  ],
-  "mappedToEmoticons": [
-    "manjuggling"
-  ],
+  "keywords": ["juggling", "man", "multitask"],
+  "mappedToEmoticons": ["manjuggling"],
   "tts": "man juggling",
   "unicode": "1f939 200d 2642 fe0f",
   "unicodeSkintones": [

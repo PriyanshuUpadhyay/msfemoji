@@ -2,19 +2,10 @@
   "cldr": "ice cream",
   "fromVersion": "0.6",
   "glyph": "🍨",
-  "glyphAsUtfInEmoticons": [
-    "1f368_icecream"
-  ],
+  "glyphAsUtfInEmoticons": ["1f368_icecream"],
   "group": "Food & Drink",
-  "keywords": [
-    "cream",
-    "dessert",
-    "ice",
-    "sweet"
-  ],
-  "mappedToEmoticons": [
-    "1f368_icecream"
-  ],
+  "keywords": ["cream", "dessert", "ice", "sweet"],
+  "mappedToEmoticons": ["1f368_icecream"],
   "tts": "ice cream",
   "unicode": "1f368"
 }

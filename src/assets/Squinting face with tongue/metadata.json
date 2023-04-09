@@ -11,9 +11,7 @@
     "taste",
     "tongue"
   ],
-  "mappedToEmoticons": [
-    "squintingfacewithtongue"
-  ],
+  "mappedToEmoticons": ["squintingfacewithtongue"],
   "tts": "squinting face with tongue",
   "unicode": "1f61d"
 }

@@ -2,21 +2,10 @@
   "cldr": "hook",
   "fromVersion": "13.0",
   "glyph": "🪝",
-  "glyphAsUtfInEmoticons": [
-    "hook"
-  ],
+  "glyphAsUtfInEmoticons": ["hook"],
   "group": "Objects",
-  "keywords": [
-    "catch",
-    "crook",
-    "curve",
-    "ensnare",
-    "hook",
-    "selling point"
-  ],
-  "mappedToEmoticons": [
-    "hook"
-  ],
+  "keywords": ["catch", "crook", "curve", "ensnare", "hook", "selling point"],
+  "mappedToEmoticons": ["hook"],
   "tts": "hook",
   "unicode": "1fa9d"
 }

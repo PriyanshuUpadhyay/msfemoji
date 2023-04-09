@@ -2,19 +2,10 @@
   "cldr": "basketball",
   "fromVersion": "0.6",
   "glyph": "🏀",
-  "glyphAsUtfInEmoticons": [
-    "basketball",
-    "slamdunk"
-  ],
+  "glyphAsUtfInEmoticons": ["basketball", "slamdunk"],
   "group": "Activities",
-  "keywords": [
-    "ball",
-    "basketball",
-    "hoop"
-  ],
-  "mappedToEmoticons": [
-    "basketball"
-  ],
+  "keywords": ["ball", "basketball", "hoop"],
+  "mappedToEmoticons": ["basketball"],
   "tts": "basketball",
   "unicode": "1f3c0"
 }

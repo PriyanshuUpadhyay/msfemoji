@@ -2,19 +2,10 @@
   "cldr": "leftwards hand",
   "fromVersion": "14.0",
   "glyph": "🫲",
-  "glyphAsUtfInEmoticons": [
-    "leftwardshand"
-  ],
+  "glyphAsUtfInEmoticons": ["leftwardshand"],
   "group": "People & Body",
-  "keywords": [
-    "hand",
-    "left",
-    "leftward",
-    "leftwards hand"
-  ],
-  "mappedToEmoticons": [
-    "leftwardshand"
-  ],
+  "keywords": ["hand", "left", "leftward", "leftwards hand"],
+  "mappedToEmoticons": ["leftwardshand"],
   "tts": "leftwards hand",
   "unicode": "1faf2",
   "unicodeSkintones": [

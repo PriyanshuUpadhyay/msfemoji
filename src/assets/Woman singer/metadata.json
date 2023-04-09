@@ -2,21 +2,10 @@
   "cldr": "woman singer",
   "fromVersion": "4.0",
   "glyph": "👩‍🎤",
-  "glyphAsUtfInEmoticons": [
-    "woman_singer"
-  ],
+  "glyphAsUtfInEmoticons": ["woman_singer"],
   "group": "People & Body",
-  "keywords": [
-    "actor",
-    "entertainer",
-    "rock",
-    "singer",
-    "star",
-    "woman"
-  ],
-  "mappedToEmoticons": [
-    "woman_singer"
-  ],
+  "keywords": ["actor", "entertainer", "rock", "singer", "star", "woman"],
+  "mappedToEmoticons": ["woman_singer"],
   "tts": "woman singer",
   "unicode": "1f469 200d 1f3a4",
   "unicodeSkintones": [

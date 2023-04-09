@@ -3,13 +3,7 @@
   "fromVersion": "14.0",
   "glyph": "🪩",
   "group": "Activities",
-  "keywords": [
-    "dance",
-    "disco",
-    "glitter",
-    "mirror ball",
-    "party"
-  ],
+  "keywords": ["dance", "disco", "glitter", "mirror ball", "party"],
   "tts": "mirror ball",
   "unicode": "1faa9"
 }

@@ -2,19 +2,10 @@
   "cldr": "bucket",
   "fromVersion": "13.0",
   "glyph": "🪣",
-  "glyphAsUtfInEmoticons": [
-    "bucket"
-  ],
+  "glyphAsUtfInEmoticons": ["bucket"],
   "group": "Objects",
-  "keywords": [
-    "bucket",
-    "cask",
-    "pail",
-    "vat"
-  ],
-  "mappedToEmoticons": [
-    "bucket"
-  ],
+  "keywords": ["bucket", "cask", "pail", "vat"],
+  "mappedToEmoticons": ["bucket"],
   "tts": "bucket",
   "unicode": "1faa3"
 }

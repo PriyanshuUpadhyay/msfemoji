@@ -2,18 +2,10 @@
   "cldr": "curly loop",
   "fromVersion": "0.6",
   "glyph": "➰",
-  "glyphAsUtfInEmoticons": [
-    "27b0_curlyloop"
-  ],
+  "glyphAsUtfInEmoticons": ["27b0_curlyloop"],
   "group": "Symbols",
-  "keywords": [
-    "curl",
-    "curly loop",
-    "loop"
-  ],
-  "mappedToEmoticons": [
-    "27b0_curlyloop"
-  ],
+  "keywords": ["curl", "curly loop", "loop"],
+  "mappedToEmoticons": ["27b0_curlyloop"],
   "tts": "curly loop",
   "unicode": "27b0"
 }

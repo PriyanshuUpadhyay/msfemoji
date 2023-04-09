@@ -10,9 +10,7 @@
     "next track button",
     "triangle"
   ],
-  "mappedToEmoticons": [
-    "23ed_nexttrack"
-  ],
+  "mappedToEmoticons": ["23ed_nexttrack"],
   "tts": "next track button",
   "unicode": "23ed fe0f"
 }

@@ -1,14 +1,12 @@
-import React from 'react';
-const componentPath = require('../../assets/Man climbing/Dark/3D/man_climbing_3d_dark.png');
+import React from "react";
+const componentPath = require("../../assets/Man climbing/Dark/3D/man_climbing_3d_dark.png");
 
 export function THREE_D_MAN_CLIMBING_DARK() {
-
   return (
-      <img
-          src={componentPath}
-          alt="THREE_D_MAN_CLIMBING_DARK"
-          style={{ width: "100%" }}
-      />
+    <img
+      src={componentPath}
+      alt="THREE_D_MAN_CLIMBING_DARK"
+      style={{ width: "100%" }}
+    />
   );
 }
-                              

@@ -2,17 +2,10 @@
   "cldr": "dolphin",
   "fromVersion": "0.6",
   "glyph": "🐬",
-  "glyphAsUtfInEmoticons": [
-    "dolphin"
-  ],
+  "glyphAsUtfInEmoticons": ["dolphin"],
   "group": "Animals & Nature",
-  "keywords": [
-    "dolphin",
-    "flipper"
-  ],
-  "mappedToEmoticons": [
-    "dolphin"
-  ],
+  "keywords": ["dolphin", "flipper"],
+  "mappedToEmoticons": ["dolphin"],
   "tts": "dolphin",
   "unicode": "1f42c"
 }

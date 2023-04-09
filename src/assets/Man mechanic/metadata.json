@@ -2,20 +2,10 @@
   "cldr": "man mechanic",
   "fromVersion": "4.0",
   "glyph": "👨‍🔧",
-  "glyphAsUtfInEmoticons": [
-    "manmechanic"
-  ],
+  "glyphAsUtfInEmoticons": ["manmechanic"],
   "group": "People & Body",
-  "keywords": [
-    "electrician",
-    "man",
-    "mechanic",
-    "plumber",
-    "tradesperson"
-  ],
-  "mappedToEmoticons": [
-    "manmechanic"
-  ],
+  "keywords": ["electrician", "man", "mechanic", "plumber", "tradesperson"],
+  "mappedToEmoticons": ["manmechanic"],
   "tts": "man mechanic",
   "unicode": "1f468 200d 1f527",
   "unicodeSkintones": [

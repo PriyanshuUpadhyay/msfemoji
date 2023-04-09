@@ -2,17 +2,10 @@
   "cldr": "melon",
   "fromVersion": "0.6",
   "glyph": "🍈",
-  "glyphAsUtfInEmoticons": [
-    "1f348_melon"
-  ],
+  "glyphAsUtfInEmoticons": ["1f348_melon"],
   "group": "Food & Drink",
-  "keywords": [
-    "fruit",
-    "melon"
-  ],
-  "mappedToEmoticons": [
-    "1f348_melon"
-  ],
+  "keywords": ["fruit", "melon"],
+  "mappedToEmoticons": ["1f348_melon"],
   "tts": "melon",
   "unicode": "1f348"
 }

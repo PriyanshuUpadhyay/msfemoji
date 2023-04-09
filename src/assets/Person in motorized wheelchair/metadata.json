@@ -2,18 +2,10 @@
   "cldr": "person in motorized wheelchair",
   "fromVersion": "12.1",
   "glyph": "🧑‍🦼",
-  "glyphAsUtfInEmoticons": [
-    "personinmotorizedwheelchair"
-  ],
+  "glyphAsUtfInEmoticons": ["personinmotorizedwheelchair"],
   "group": "People & Body",
-  "keywords": [
-    "accessibility",
-    "person in motorized wheelchair",
-    "wheelchair"
-  ],
-  "mappedToEmoticons": [
-    "personinmotorizedwheelchair"
-  ],
+  "keywords": ["accessibility", "person in motorized wheelchair", "wheelchair"],
+  "mappedToEmoticons": ["personinmotorizedwheelchair"],
   "tts": "person in motorized wheelchair",
   "unicode": "1f9d1 200d 1f9bc",
   "unicodeSkintones": [

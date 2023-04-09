@@ -2,18 +2,10 @@
   "cldr": "winking face",
   "fromVersion": "0.6",
   "glyph": "😉",
-  "glyphAsUtfInEmoticons": [
-    "wink"
-  ],
+  "glyphAsUtfInEmoticons": ["wink"],
   "group": "Smileys & Emotion",
-  "keywords": [
-    "face",
-    "wink",
-    "winking face"
-  ],
-  "mappedToEmoticons": [
-    "wink"
-  ],
+  "keywords": ["face", "wink", "winking face"],
+  "mappedToEmoticons": ["wink"],
   "tts": "winking face",
   "unicode": "1f609"
 }

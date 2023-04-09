@@ -3,14 +3,8 @@
   "fromVersion": "13.1",
   "glyph": "🧔‍♀️",
   "group": "People & Body",
-  "keywords": [
-    "beard",
-    "woman",
-    "woman: beard"
-  ],
-  "mappedToEmoticons": [
-    "womanbeard"
-  ],
+  "keywords": ["beard", "woman", "woman: beard"],
+  "mappedToEmoticons": ["womanbeard"],
   "tts": "woman: beard",
   "unicode": "1f9d4 200d 2640 fe0f",
   "unicodeSkintones": [

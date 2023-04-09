@@ -2,9 +2,7 @@
   "cldr": "man health worker",
   "fromVersion": "4.0",
   "glyph": "👨‍⚕️",
-  "glyphAsUtfInEmoticons": [
-    "manhealthworker"
-  ],
+  "glyphAsUtfInEmoticons": ["manhealthworker"],
   "group": "People & Body",
   "keywords": [
     "doctor",
@@ -14,9 +12,7 @@
     "nurse",
     "therapist"
   ],
-  "mappedToEmoticons": [
-    "manhealthworker"
-  ],
+  "mappedToEmoticons": ["manhealthworker"],
   "tts": "man health worker",
   "unicode": "1f468 200d 2695 fe0f",
   "unicodeSkintones": [

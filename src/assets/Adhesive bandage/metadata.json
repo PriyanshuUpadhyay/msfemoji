@@ -2,17 +2,10 @@
   "cldr": "adhesive bandage",
   "fromVersion": "12.0",
   "glyph": "🩹",
-  "glyphAsUtfInEmoticons": [
-    "1fa79_adhesivebandage"
-  ],
+  "glyphAsUtfInEmoticons": ["1fa79_adhesivebandage"],
   "group": "Objects",
-  "keywords": [
-    "adhesive bandage",
-    "bandage"
-  ],
-  "mappedToEmoticons": [
-    "1fa79_adhesivebandage"
-  ],
+  "keywords": ["adhesive bandage", "bandage"],
+  "mappedToEmoticons": ["1fa79_adhesivebandage"],
   "tts": "adhesive bandage",
   "unicode": "1fa79"
 }

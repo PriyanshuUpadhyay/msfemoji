@@ -2,18 +2,10 @@
   "cldr": "pie",
   "fromVersion": "5.0",
   "glyph": "🥧",
-  "glyphAsUtfInEmoticons": [
-    "pie"
-  ],
+  "glyphAsUtfInEmoticons": ["pie"],
   "group": "Food & Drink",
-  "keywords": [
-    "filling",
-    "pastry",
-    "pie"
-  ],
-  "mappedToEmoticons": [
-    "pie"
-  ],
+  "keywords": ["filling", "pastry", "pie"],
+  "mappedToEmoticons": ["pie"],
   "tts": "pie",
   "unicode": "1f967"
 }

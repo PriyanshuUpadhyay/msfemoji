@@ -3,13 +3,8 @@
   "fromVersion": "0.6",
   "glyph": "☎️",
   "group": "Objects",
-  "keywords": [
-    "phone",
-    "telephone"
-  ],
-  "mappedToEmoticons": [
-    "260e_blacktelephone"
-  ],
+  "keywords": ["phone", "telephone"],
+  "mappedToEmoticons": ["260e_blacktelephone"],
   "tts": "telephone",
   "unicode": "260e fe0f"
 }

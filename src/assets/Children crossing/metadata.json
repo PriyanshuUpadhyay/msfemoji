@@ -2,9 +2,7 @@
   "cldr": "children crossing",
   "fromVersion": "1.0",
   "glyph": "🚸",
-  "glyphAsUtfInEmoticons": [
-    "1f6b8_childrencrossing"
-  ],
+  "glyphAsUtfInEmoticons": ["1f6b8_childrencrossing"],
   "group": "Symbols",
   "keywords": [
     "child",
@@ -13,9 +11,7 @@
     "pedestrian",
     "traffic"
   ],
-  "mappedToEmoticons": [
-    "1f6b8_childrencrossing"
-  ],
+  "mappedToEmoticons": ["1f6b8_childrencrossing"],
   "tts": "children crossing",
   "unicode": "1f6b8"
 }

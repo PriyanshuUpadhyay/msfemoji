@@ -2,17 +2,10 @@
   "cldr": "up-down arrow",
   "fromVersion": "0.6",
   "glyph": "↕️",
-  "glyphAsUtfInEmoticons": [
-    "2195_updownarrow"
-  ],
+  "glyphAsUtfInEmoticons": ["2195_updownarrow"],
   "group": "Symbols",
-  "keywords": [
-    "arrow",
-    "up-down arrow"
-  ],
-  "mappedToEmoticons": [
-    "2195_updownarrow"
-  ],
+  "keywords": ["arrow", "up-down arrow"],
+  "mappedToEmoticons": ["2195_updownarrow"],
   "tts": "up-down arrow",
   "unicode": "2195 fe0f"
 }

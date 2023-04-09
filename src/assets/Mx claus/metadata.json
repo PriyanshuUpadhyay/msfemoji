@@ -3,13 +3,8 @@
   "fromVersion": "13.0",
   "glyph": "🧑‍🎄",
   "group": "People & Body",
-  "keywords": [
-    "Claus, christmas",
-    "mx claus"
-  ],
-  "mappedToEmoticons": [
-    "mxclaus"
-  ],
+  "keywords": ["Claus, christmas", "mx claus"],
+  "mappedToEmoticons": ["mxclaus"],
   "tts": "mx claus",
   "unicode": "1f9d1 200d 1f384",
   "unicodeSkintones": [

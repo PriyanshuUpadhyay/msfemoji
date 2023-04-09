@@ -3,13 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "🛢️",
   "group": "Travel & Places",
-  "keywords": [
-    "drum",
-    "oil"
-  ],
-  "mappedToEmoticons": [
-    "1f6e2_oildrum"
-  ],
+  "keywords": ["drum", "oil"],
+  "mappedToEmoticons": ["1f6e2_oildrum"],
   "tts": "oil drum",
   "unicode": "1f6e2 fe0f"
 }

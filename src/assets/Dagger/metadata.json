@@ -3,14 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "🗡️",
   "group": "Objects",
-  "keywords": [
-    "dagger",
-    "knife",
-    "weapon"
-  ],
-  "mappedToEmoticons": [
-    "1f5e1_daggerknife"
-  ],
+  "keywords": ["dagger", "knife", "weapon"],
+  "mappedToEmoticons": ["1f5e1_daggerknife"],
   "tts": "dagger",
   "unicode": "1f5e1 fe0f"
 }

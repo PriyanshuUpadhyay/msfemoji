@@ -2,9 +2,7 @@
   "cldr": "high voltage",
   "fromVersion": "0.6",
   "glyph": "⚡",
-  "glyphAsUtfInEmoticons": [
-    "26a1_highvoltagesign"
-  ],
+  "glyphAsUtfInEmoticons": ["26a1_highvoltagesign"],
   "group": "Travel & Places",
   "keywords": [
     "danger",
@@ -14,9 +12,7 @@
     "voltage",
     "zap"
   ],
-  "mappedToEmoticons": [
-    "26a1_highvoltagesign"
-  ],
+  "mappedToEmoticons": ["26a1_highvoltagesign"],
   "tts": "high voltage",
   "unicode": "26a1"
 }

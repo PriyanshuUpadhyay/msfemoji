@@ -2,19 +2,10 @@
   "cldr": "closed umbrella",
   "fromVersion": "0.6",
   "glyph": "🌂",
-  "glyphAsUtfInEmoticons": [
-    "1f302_closedumbrella"
-  ],
+  "glyphAsUtfInEmoticons": ["1f302_closedumbrella"],
   "group": "Travel & Places",
-  "keywords": [
-    "closed umbrella",
-    "clothing",
-    "rain",
-    "umbrella"
-  ],
-  "mappedToEmoticons": [
-    "1f302_closedumbrella"
-  ],
+  "keywords": ["closed umbrella", "clothing", "rain", "umbrella"],
+  "mappedToEmoticons": ["1f302_closedumbrella"],
   "tts": "closed umbrella",
   "unicode": "1f302"
 }

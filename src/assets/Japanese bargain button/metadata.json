@@ -2,9 +2,7 @@
   "cldr": "Japanese “bargain” button",
   "fromVersion": "0.6",
   "glyph": "🉐",
-  "glyphAsUtfInEmoticons": [
-    "1f250_circledideographadvantage"
-  ],
+  "glyphAsUtfInEmoticons": ["1f250_circledideographadvantage"],
   "group": "Symbols",
   "keywords": [
     "“bargain”",
@@ -13,9 +11,7 @@
     "Japanese “bargain” button",
     "得"
   ],
-  "mappedToEmoticons": [
-    "1f250_circledideographadvantage"
-  ],
+  "mappedToEmoticons": ["1f250_circledideographadvantage"],
   "tts": "Japanese “bargain” button",
   "unicode": "1f250"
 }

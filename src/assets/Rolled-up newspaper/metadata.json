@@ -3,16 +3,8 @@
   "fromVersion": "0.7",
   "glyph": "🗞️",
   "group": "Objects",
-  "keywords": [
-    "news",
-    "newspaper",
-    "paper",
-    "rolled",
-    "rolled-up newspaper"
-  ],
-  "mappedToEmoticons": [
-    "1f5de_rolledupnewspaper"
-  ],
+  "keywords": ["news", "newspaper", "paper", "rolled", "rolled-up newspaper"],
+  "mappedToEmoticons": ["1f5de_rolledupnewspaper"],
   "tts": "rolled-up newspaper",
   "unicode": "1f5de fe0f"
 }

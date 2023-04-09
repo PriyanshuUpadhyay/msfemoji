@@ -2,19 +2,10 @@
   "cldr": "woman’s hat",
   "fromVersion": "0.6",
   "glyph": "👒",
-  "glyphAsUtfInEmoticons": [
-    "1f452_womanshat"
-  ],
+  "glyphAsUtfInEmoticons": ["1f452_womanshat"],
   "group": "Objects",
-  "keywords": [
-    "clothing",
-    "hat",
-    "woman",
-    "woman’s hat"
-  ],
-  "mappedToEmoticons": [
-    "1f452_womanshat"
-  ],
+  "keywords": ["clothing", "hat", "woman", "woman’s hat"],
+  "mappedToEmoticons": ["1f452_womanshat"],
   "tts": "woman’s hat",
   "unicode": "1f452"
 }

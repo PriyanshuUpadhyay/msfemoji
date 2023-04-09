@@ -2,17 +2,10 @@
   "cldr": "herb",
   "fromVersion": "0.6",
   "glyph": "🌿",
-  "glyphAsUtfInEmoticons": [
-    "1f33f_herb"
-  ],
+  "glyphAsUtfInEmoticons": ["1f33f_herb"],
   "group": "Animals & Nature",
-  "keywords": [
-    "herb",
-    "leaf"
-  ],
-  "mappedToEmoticons": [
-    "1f33f_herb"
-  ],
+  "keywords": ["herb", "leaf"],
+  "mappedToEmoticons": ["1f33f_herb"],
   "tts": "herb",
   "unicode": "1f33f"
 }
