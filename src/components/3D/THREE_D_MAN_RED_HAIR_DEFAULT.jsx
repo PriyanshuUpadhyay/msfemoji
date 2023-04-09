@@ -1,0 +1,14 @@
+import React from 'react';
+const componentPath = require('../../assets/Man red hair/Default/3D/man_red_hair_3d_default.png');
+
+export function THREE_D_MAN_RED_HAIR_DEFAULT() {
+
+  return (
+      <img
+          src={componentPath}
+          alt="THREE_D_MAN_RED_HAIR_DEFAULT"
+          style={{ width: "100%" }}
+      />
+  );
+}
+                              

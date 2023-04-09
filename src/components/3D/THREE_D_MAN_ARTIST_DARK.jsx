@@ -1,0 +1,14 @@
+import React from 'react';
+const componentPath = require('../../assets/Man artist/Dark/3D/man_artist_3d_dark.png');
+
+export function THREE_D_MAN_ARTIST_DARK() {
+
+  return (
+      <img
+          src={componentPath}
+          alt="THREE_D_MAN_ARTIST_DARK"
+          style={{ width: "100%" }}
+      />
+  );
+}
+                              
